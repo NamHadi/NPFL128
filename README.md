@@ -13,7 +13,7 @@ The analyzer covers Nouns for inflection classes like gender (Male, Female and N
 
 ### Future work
 
-The analyser works well for verbs which is the largest category in Torwali when it comes to inflecting, the analyzer also covers Nouns, Adverbs and adjective. The future direction or extension of this work could be addressing the random changes in the stem and the identification of tonal variations (in Nouns) and the distinct behavior of vowel-ending verbs and nouns. Also, there are some nouns which fall under different gender categories but are written in the same way(homonyms), the only difference is tone, which creates ambiguity. 
+The analyser works well for verbs which is the largest category in Torwali when it comes to inflecting, the analyzer also covers Nouns, Adverbs and adjective. The future direction or extension of this work could be addressing the random changes in the stem and the identification of tonal variations (in Nouns) and the distinct behavior of vowel-ending verbs and nouns. Also, there are some nouns which fall under different gender categories but are written in the same way(homonyms), the only difference is tone, which creates ambiguity. This is a baseline system and there is a lot of room for improvement, but it is understandable because the language is extremely low-resourced and a lot of manual work and research is required to create a full-fledged morphological analyzer. 
 
 ### Requirements
 
