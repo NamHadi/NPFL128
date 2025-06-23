@@ -1,6 +1,6 @@
 ### Torwali Morphological Analyzer and Tokenizer
 ### Overview
-This is a repository for **NPFL128** course project. The files in this repository processes **Torwali** texts for Morphological Analysis and Tokenization. **Torwali** is an endangered language spoken in north of Pakistan, written in Perso-Arabic script and have very limited resources and computational support. 
+This is a repository for **NPFL128** course project. The files in this repository processes **Torwali** texts in an attempt to build a Morphological analyzer for **Torwali**, **Torwali** is an endangered language spoken in north of Pakistan, written in Perso-Arabic script and have very limited resources and computational support. 
 
 ### Tokenization
 This project is based on data from a Toolbox file which contains database of the first ever Torwali dictionary, The files contain a python script(tokenzie.py), which extracts lexical entries from **\lc** fields and the corresponding POS tags from **\ps** fields and stored in a dictionary. Since Arabic script do not use white spaces as boundary markers, the script takes input sentences and tokenizes it using a max-match algorithm against the given/stored dictionary forms and prints each tokenized word along with its POS tag. The tokenized results are also saved to a text file. Additionally, the script allows interactive tokenization of input sentences, displaying tokens with their POS tags if available. 
