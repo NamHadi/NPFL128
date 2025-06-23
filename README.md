@@ -29,12 +29,12 @@ Foma[3]:print lower-words>D:/naeem.text
 
 ### Files and data
 
-README.md - readme file
-tokenize.py - Tokenzation
-naeem-trw.trw.lexc - Lexicon (morphosyntactic)
-naeem-trw.trw.foma - Phonological rules
-sample_output.txt - Sample Output of Morphological Analyzer and Tokenizer
-example_sentences.txt - Sentences which are tokenized and pos tagged to build lexicon
+README.md - readme file<br>
+tokenize.py - Tokenzation<br>
+naeem-trw.trw.lexc - Lexicon (morphosyntactic)<br>
+naeem-trw.trw.foma - Phonological rules<br>
+sample_output.txt - Sample Output of Morphological Analyzer and Tokenizer<br>
+example_sentences.txt - Sentences which are tokenized and pos tagged to build lexicon<br>
 Torwali_DB.txt - Database from which the dictionary forms are extracted along with thier POS tags
 
 
