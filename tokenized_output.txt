@@ -1,0 +1,6226 @@
+آ	n masc
+آ	pp
+آ	QM
+آ	interj
+آ	pro
+آب	n masc
+آباد	adj
+آبادی	n fem
+اباسین	n fem
+ابَن	pro
+آبوؤ	vt
+اَچا	suffix
+اچانک	adv
+اچار	n masc
+ادام	n masc
+ادب	n fem
+آدم	n masc
+آدت	n fem
+ادھیل	n fem
+اَدوس	n fem
+ادرک	n masc
+آدُوم	n masc
+افلَتے	n fem
+اَگا	adv
+آگن	n masc
+اگَڑُو	vt
+آگیش	adj masc
+اگھاجھأگ	n masc
+اَگھراڑ	n masc
+اَگردَھگر	adj
+آگو	n fem
+اگوڜ	n fem
+اَگوٷ	vt
+اَگُل	adj
+اغَز	n masc
+اغیڑ	adj
+اَہاڑ	n masc
+احکام	n masc
+آیندہ	n masc
+اجَر	n masc
+اجَڑ	n masc
+اجدھام	n fem
+اجیبا	adj
+اجیز	adj
+اَکھیر	n fem
+اکھوڜ	n fem
+اکثر	adv
+آل	n masc
+اَلآ	interj
+آلہ	n masc
+اَلا	n masc
+الا	n masc
+اَلا	n masc
+الاچا	n masc
+علامہ	n masc
+علاقہ	n masc
+اَلوٷ	vt
+آلوان	n masc
+عالِم	n masc
+اللّہ	n masc
+آلو	n masc
+آلوک	n masc
+الوگاٹ	adj
+عام	adj
+آم	n masc
+اما	conj
+اَمابرے	vi
+عمل	n masc
+امَن	pro
+امن	n masc
+اَمنا	adv
+امر	n masc
+امبار	n masc
+امبُور	n masc
+آمو	n masc
+اموڜ	n fem
+اموڜا	n masc
+اموڜاٹ	adj masc
+اموڜیل	adj
+اموڜو	vi
+امروت	n masc
+اَمُل	n masc
+اَمُوخ	n fem
+آن	n masc
+آنہ	n masc
+آنار	n masc
+انَباڜ	n masc
+انمُوش	adj
+انداخ	n masc
+اندازہ	n fem
+اندر	n masc
+اندَرے	adv
+آنڈ	n fem
+آنڈل	n masc
+اَنڈیوال	n masc
+اَنُو	vt
+انگا	n masc
+انگٹی	n fem
+آنگو	n masc
+انگُشتان	n masc
+انگُوٹ	n masc
+آپ	vi
+اَپن	pro
+عقل	n fem
+عقیدہ	n masc
+آر	n masc
+آرا	n masc
+آراکَش	n masc
+آرام	n masc
+آراما	adj
+آرامگی	n fem
+عربی	n fem
+ارَڜو	n masc
+آرَت	adj
+آرگنو	n masc
+اَرزئیل	n masc
+ارزومَن	adj
+اڑموٷ	vt
+آڑھا	n masc
+آڑھا	n masc
+اسان	adj
+اسانتیا	n masc
+اصَل	adj
+اثر	n masc
+آسرا	n masc
+اَسے	conj
+اصیل	adj
+اصلی	adj
+آسمان	n masc
+آسمانی	adj
+آسو	n masc
+آسپاب	n masc
+اسریت	n fem
+اَستر	n masc
+اسُو	n masc
+اَسُودا	adj
+آڜ	n masc
+آڜ	adj
+آڜ	n fem
+آڜان	n fem
+اَڜو	n masc
+آڜو	adj
+آڜوکھا	n masc
+اڜورُن	n masc
+آش	n masc
+اشان	n masc
+اشاڑوپٹے	n fem
+عاشق	n masc
+عاشقی	n fem
+اَشیئ	aux
+اشینا	adj
+اَشینئ	n fem
+اَشُو	aux
+اشُوٹ	adj
+اتر	n masc
+اتھان	n masc
+اٹال	n masc
+آٹھ	num
+اٹھاش	num
+اٹھاشم	adj
+اٹکل	n masc
+اٹکلی	adv
+آٹکے	n fem
+اَوتر	adj
+آوا	interj
+آوان	n masc
+آواز	n masc
+اول	adj
+اوَن	adj
+اَوَن	pro
+اوَنأ	adv
+آوَنگُو	vi
+آؤدَس	n fem
+اولاد	n masc
+اولأدی	n fem
+اَولیاء	n masc
+آوَٷ	vi
+اَخاڑا	n masc
+آخیر	adj
+آخیرت	n fem
+آخیری	adj
+اَخکارہ	adj
+اخلاق	n masc
+آخو	n masc
+اخور	n masc
+آختہ	adj
+آیا	n masc
+ایات	n fem
+ایات	adj
+اَیلَوٷ	vt
+آئین	n masc
+آیوٷ	vt
+عذاب	n masc
+ازاد	adj
+ازادی	n fem
+ازار	n masc
+عذابوٷ	vt
+ازل	n masc
+اَزوَؤ	vt
+آزوموٷ	vt
+آژُوک	adj
+اَڙس	adj masc
+آں	n masc
+آں	conj
+عدالت	n fem
+اَۓ	n fem
+افسوس	n fem
+افواہ	n fem
+اگاش	num
+اگاشم	adj
+اَگھا	n masc
+اَگھادی	n masc
+اَغَس	n masc
+اَئی	n fem
+اَئی	vi
+اَجدھا	n fem
+اَکَس	n masc
+علاوہ	adv
+اَم	adj masc
+اَم	suffix
+امانَت	adj
+امَنات	n masc
+امَناتی	adj
+اَمشُت	adv
+اَنّ	adj masc
+انان	adj
+اَندادے	adv
+اندام	n masc
+انڈَئ	n masc
+انفن	adv
+انجام	n masc
+انور	n masc
+اَنوتول	adj
+اَنٹیخ	n masc
+اَوؤ	vt
+اقّا	interj
+اقرَبا	n masc
+اَر	adj
+اَر	n fem
+اَر	adj
+اَر	prefix
+ارَتر	adj
+ارَترأ	adv
+اَردی	n masc
+اَرڈیل	n fem
+اَرگھجأ	adj
+اَرغندا	n masc
+ارکُنڈول	adj
+ارمان	n masc
+ارمانئی	adj
+اَرماڜ	adj masc
+ارموُگاڑ	adj
+ارپَن	adj
+اَرواح	n fem
+اَروَحان	n fem
+اَریانئی	n fem
+ارزا	n masc
+ارزال	adj
+ارزان	adj
+ارزأنی	n fem
+اَرڙأت	adv
+اڑَنیس	n masc
+اَڑپوٷ	vt
+اڑَقوٷ	vt
+اڑتال	n masc
+استوغفار	n masc
+اَڜ	interj
+اَڜ	adj masc
+اشرفی	n fem
+اٹالا	adj
+اٹھال	n masc
+آوازہ	n masc
+اَوُوئی	n fem
+اخّ	interj
+اخکارہ	adv
+ایَن	adv
+اَزَر	adj
+عزیز	n masc
+اَزیزان	adj
+ازمئخ	n fem
+اَںئی	adv
+أ	pro
+أ	suffix
+أبأ	interj
+أچِھیویل	adv
+أدی	adj
+أڈھیل	n fem
+أگأیئ	n fem
+أگیئ	n fem
+أغأت	n fem
+أک	n fem
+ألئ	n fem
+ألیئ	n fem
+ألیچے	n fem
+ألیمو	n masc
+أم	adj fem
+أمیدے	adv
+أمینے	adv
+أمی	adj
+أمیژیل	adj
+أمیژُو	vi
+أمِیل	n fem
+أمجیلأ	n fem
+أن	adj fem
+أنچِگیل	adj
+أنچِک	n fem
+أنڈیسکِل	n fem
+أنی	n fem
+أنگ	n fem
+أنگر	n masc
+أنگر	n masc
+أنگری	n fem
+أنگی	n fem
+أنگیریز	n masc
+أنگیڑ	n fem
+أپ	vi
+أقأت	n fem
+أر	n fem
+أرأن	n fem
+أرھأ	n masc
+أڑ	n fem
+أڑی	n fem
+أسأنی	n fem
+أڜ	adj fem
+أڜے	adj fem
+أڜے	adj fem
+أڜیئی	n fem
+أڜینیر	n fem
+أشی	aux
+أشیم	n masc
+أشیمیل	adj
+أشیویل	adj
+أٹھأس	n masc
+أٹھیلأئ	n fem
+أویم	adj
+أخأن	n fem
+أخیر	adv
+أخیری	adj
+أزأری	n masc
+أں	n fem
+أںیئ	n fem
+أںیوش	adj
+با	pp
+بابت	adv
+بابُو	n masc
+بابُوگِری	n fem
+باچا	n masc
+باچَیئ	adj
+بعد	adv
+بادام	n masc
+بادر	adj masc
+بادربان	n masc
+بادری	n fem
+بادرو	n masc
+بادیوا	n masc
+باڈالئی	n fem
+باڈیدار	adj
+بافر	n masc
+باگُوبان	n masc
+باغ	n masc
+باغیچہ	n masc
+باغوان	n masc
+باجا	n masc
+باجری	n fem
+باک	n masc
+بال	n masc
+بالاکوٹ	n masc
+بالاسُر	n masc
+بالخ	n masc
+بالِغ	adj
+بالٹئی	n masc
+باماییوٷ	vt
+بامبڑ	n masc
+بان	n masc
+بان‌	n masc
+بان	adj
+بان	n masc
+بانا	n masc
+بانَس	n masc
+بانڈا	n masc
+بانڈا	n masc
+بانگ	n fem
+بانگیش	n masc
+بانگُو	vi
+باپ	n masc
+باقیدہ	adv
+باقی	n masc
+باقیدار	n masc
+بار	adj masc
+بارا	n masc
+بارا	pp
+باراچا	n masc
+باردَن	n fem
+باری	n fem
+باریک	adj
+باریکات	n fem
+باروُت	n masc
+باڑا	n masc
+باڑی	n fem
+باس	n masc
+بحث	n masc
+باسان	n masc
+باسن	n fem
+باسیٹ	n masc
+باسو	n masc
+باڜ‌	n masc
+باش	n masc
+باشو	vi
+بات	n fem
+باتھر	n masc
+باتی	n fem
+باتی	n fem
+باٹ	n masc
+باٹ	n masc
+باٹا	adj masc
+باوا	n masc
+باوُوگان	n masc
+باز	n masc
+بازار	n masc
+بازأری	adj
+بازی	n fem
+بازُو	n masc
+بَأن	n masc
+بچَئ	n masc
+بچت	n fem
+بچی	n fem
+بچُو	interj
+بد	n fem
+بد	prefix
+بدَگئ	n masc
+بدَئ	n fem
+بَدَک	n masc
+بَدَل	n fem
+بَدَل	n masc
+بَدَل	adj
+بدلَوٷ	vt
+بدن	n masc
+بدَنی	adj
+بدگُنیا	adj
+بدھَشکال	n masc
+بدی	n fem
+بدکارا	adj
+بدکأری	n fem
+بدلی	n fem
+بدمعاش	adj
+بدمعاشی	n fem
+بدنام	adj
+بدنامُوسی	n fem
+بدنصیبا	adj
+بدنصیبی	n fem
+بدنأمِسی	n fem
+بدنیتا	adj
+بدنیتی	n fem
+بدخُویا	adj
+بڈال	n masc
+بڈغار	adj masc
+بڈکُوما	n fem
+بَۓ	adj fem
+بَۓ	n masc
+بگ	n fem
+بَگھیّ	n fem
+بغاوت	n fem
+بغل	n fem
+بغری	n fem
+بہان	n masc
+بَہیت	n masc
+بَئّ	n masc
+بئیدار	adj
+بیئداری	n fem
+بجہ	n masc
+بکانے	n fem
+بَکس	n masc
+بَکھی	n fem
+بَکری	n fem
+بَکری	n fem
+بکسا	n masc
+بکسوا	n masc
+بَکشیر	n masc
+بکواس	n masc
+بکواسی	adj
+بلا	n masc
+بلَب	n masc
+بَلد	adj
+بَلبلأ	n fem
+بلغم	n masc
+بم	n masc
+بمبا	n masc
+بمبل	adj
+بمبو	n masc
+بن	n masc
+بَن	n masc
+بَن	adj
+بنفشہ	n masc
+بنأدُم	n masc
+بندَکئ	n masc
+بَندر	n masc
+بندیس	n masc
+بندیوان	adj
+بندوبس	n fem
+بنڈارہ	n masc
+بنڈَغارا	n fem
+بَنے	conj
+بنین	n masc
+بنسَدَل	n masc
+بنسَجَل	n masc
+بَنُو	vi
+بنگابِلو	n fem
+بنگا	n fem
+بنگلہ	n masc
+بنگڑئ	n masc
+بقاڑ	n masc
+بقایہ	n masc
+برابر	adj
+برانئی	n fem
+برانیوال	n masc
+برانیال	n masc
+برات	n masc
+برَئ	n fem
+برنڈا	n masc
+برباد	adj
+بربادی	n fem
+برداش	n masc
+بری	adj
+بریسا	n masc
+برکت	n fem
+بَرما	n masc
+برمُلاخیل	n masc
+برناحقہ	adv
+برسَیرا	adj
+بڑاق	n fem
+بَڑاس	n masc
+بڑنگا	n fem
+بڑقا	n fem
+بڑَقاٹ	adj
+بڑَقُو	vi
+بڑبڑأ	n fem
+بڑی	n fem
+بڑی	n fem
+بَڑول	n masc
+بڑوُل	n masc
+بَڑوا	n masc
+بس	n masc
+بسان	n masc
+بستہ	n masc
+بڜا	n masc
+بشر	n masc
+بشرَئی	n masc
+بَطے	n fem
+بتھا	n masc
+بَتَھرُو	vt
+بَٹ	n masc
+بٹن	n masc
+بٹندَر	n masc
+بٹی	n fem
+بواسیر	n masc
+بَخ	n masc
+بخیل	adj
+بخمل	n fem
+بختور	adj
+بیابان	n masc
+بیان	n masc
+بیانہ	n fem
+بَیَلَوٷ	vi
+بژیل	adj
+بژیل	adj
+بژوُ	vi
+بژُو	vi
+بَڙُو	vt
+بأ	interj
+بأچیئ	n fem
+بأل	adv
+بألُک	adj
+بیأنگی	n masc
+بأنگیڑَئ	n masc
+بأر	n fem
+بأر	adj fem
+بأرین	n fem
+بیأرزی	n fem
+بأس	n fem
+بأسے	n fem
+بیأسے	n fem
+بأٹ	n fem
+بأڙین	n fem
+بأڙُو	vt
+بے	prefix
+بیعت	n fem
+بےباکا	adj
+بید	adj
+بیدَوٷ	vt
+بیگانہ	adj
+بیگار	n masc
+بیگِیل	n fem
+بیگُمَئ	n masc
+بیکارا	adj
+بیکِھن	n fem
+بَیل	n masc
+بَیل	adv
+بیلا	n masc
+بیلر	n masc
+بیلأ	n fem
+بلأبتر	n fem
+بیلأئ	n fem
+بیلأئ	n fem
+بیلچہ	n fem
+بیلی	n fem
+بیلیگان	n fem
+بیلِم	n fem
+بیلُک	adj
+بیمار	adj
+بیمأری	n fem
+بَین	n masc
+بین	n masc
+بینئیی	n fem
+بینجیئ	n masc
+بیپار	n masc
+بیپأری	n masc
+بیقدرا	adj
+بیقوپ	n masc
+بیر	n masc
+بَیر	n masc
+بیرے	n fem
+بیڑیل	n fem
+بیڑی	n fem
+بیڑی	n fem
+بیڑیل	adj fem
+بیس	n fem
+بیسیارا	adj
+بیسُو	vt
+بیش	n masc
+بیشال	n masc
+بیشل	n fem
+بیت	n fem
+بیتھأن	n fem
+بیٹَک	n masc
+بیوا	n masc
+بیواکا	adj
+بیویل	adj fem
+بیوَوؤ	vt
+بیخ	n masc
+بیخی	adv
+بیخود	adj
+بَیں	n masc
+بیں	n masc
+بیںئ	n masc
+بیںئ	n masc
+بھا	n masc
+بھا	n fem
+بھا	adj
+بھادی	n fem
+بھادُو	n fem
+بھاکتے	adj
+بھام	n fem
+بھان	n masc
+بھان	n masc
+بھانگ	n fem
+بَھاپَن	n masc
+بھار	n masc
+بھار	pp
+بھاردَن	n fem
+بھاریئ	adj
+بحرین	n masc
+بھاڜ	n masc
+بھاڜ	n masc
+بھات	n masc
+بھاڙ	n masc
+بَھبَئی	n fem
+بَھدَشکال	n masc
+بَھدَشکالی	n masc
+بَھئیل	adj
+بَھگَوؤ	vt
+بَھئ	n masc
+بھکا	n fem
+بَھل	adj
+بَھلا	n masc
+بھلاک	n masc
+بھلَکا	n fem
+بَھلوٷ	vt
+بھمَندُھر	n masc
+بَھن	adj masc
+بھنگاٹ	adj masc
+بَھنگی	n masc
+بھنگُو	vi
+بھقُول	adj masc
+بَھرَوٷ	vt
+بھربانڈُو	n masc
+بَھروٹ	n masc
+بھروَسی	n fem
+بھوئی	n fem
+بھیُو	vi
+بھڙنَوٷ	vt
+بھڙوؤ	vt
+بھَڙُو	vt
+بھأ	n fem
+بھأج	n fem
+بھیأش	n fem
+بھأشگر	n masc
+بھیأشگو	n masc
+بھیان	n masc
+بھید	n fem
+بھیدیل	n fem
+بھیدین	n fem
+بھیدینیر	n fem
+بھیدأن	n fem
+بھیدُو	adj masc
+بھیژیئ	n fem
+بھیل	n fem
+بھیم	adj
+بھیمیدھیر	n fem
+بھیمیندیر	n fem
+بھمیڜ	n fem
+بَھین	n fem
+بھینڈی	n fem
+بھیون	n masc
+بھیقِل	adj fem
+بَھیر	n fem
+بَھیرے	n fem
+بھیریٹ	n fem
+بھیرین	n masc
+بھیسا	adv
+بھیٹ	vi
+بھیوٷ	vt
+بھیزر	n masc
+بھیڙی	n fem
+بھیڙیل	n fem
+بھی	adv
+بھی	conj
+بِھیاٹ	adj
+بِھیژی	n fem
+بِھیلأت	n fem
+بھِیت	n fem
+بھیُو	vi
+بِھزین	adj
+بِھزِیناچا	n masc
+بھِیوں	n masc
+بھوئیل	adj
+بھوگو	n masc
+بھوگوئی	n fem
+بھوگوٷ	vt
+بھومودُر	n masc
+بھوموڜا	n masc
+بھون	n masc
+بھون	n masc
+بھونال	n masc
+بھور	n masc
+بھوریل	adj
+بھورو	n masc
+بھورُو	vi
+بھوتان	n masc
+بھوٷ	vt
+بھوٷ	vt
+بھوٷ	vt
+بھوؤ	aux
+بھوٷ	vt
+بھوٷ	vt
+بھووُڜ	n masc
+بھوۓ	adv
+بھوڙُو	n masc
+بُھو	n masc
+بُھئ	n fem
+بُھوژُوٷ	vt
+بُھژیل	adj
+بُھجمان	n masc
+بُھوژُو	vi
+بُھجُونی	n fem
+بُھوم	n fem
+بھومأ	n masc
+بُھمبَیل	n fem
+بھُومیل	n fem
+بُھن	n masc
+بُھنِیم	adj
+بُھر	n fem
+بُھرُٹُس	adj
+بُھوسار	n masc
+بُھوش	n masc
+بُھوش	n masc
+بُھت	n masc
+بھُت	n masc
+بھُوزوربھاگ	n masc
+بِیچک	n masc
+بِدعت	n fem
+بدعتی	n masc
+بِگِنیل	adj
+بِگینُو	vt
+بِژیگین	n fem
+بِژیمُو	vi
+بجلی	n fem
+بِژور	n masc
+بِک	adj fem
+بِکری	n fem
+بِیلأت	n fem
+بِلیگا	n masc
+بیلیماز	adj
+بِلوری	n fem
+بِلوو	vt
+بِیم	n masc
+بینا	adj
+بِراٹ	n masc
+بِیرَڑُو	vt
+بِرِد	n fem
+بِرِک	n fem
+بِریک	n fem
+بِرینگُو	vt
+بِریت	vi
+بِریت	adv
+بِریُو	vi
+بِریخ	n masc
+بریخنا	n masc
+بِریخُو	vi
+بِرنا	n masc
+بِڑنگ	n masc
+بِسا	n masc
+بِسأت	n fem
+بِسترہ	n masc
+بِڜ	n fem
+بِڜ	n masc
+بِڜاک	n fem
+بِڜیل	adj
+بِڜگام	n masc
+بِیش	num
+بِش	n fem
+بِشَوؤ	vt
+بشأت	n fem
+بِشترہ	n masc
+بِت	vi
+بِٹھاژُو	vt
+بِیور	n masc
+بِیژا	n masc
+بِڙیگ	n fem
+بِیڙیگا	adv
+بو	adj masc
+بو	n masc
+بوأکے	conj
+بوب	n masc
+بوئے	n masc
+بوگو	n masc
+بوگوأل	n masc
+بوگوچیا	n masc
+بوگوشیل	adj
+بوگوشُو	vt
+بوگوشُو	vt
+بغول	n masc
+بوغوٹئ	n masc
+بوغزولئ	n masc
+بوئ	n fem
+بوژی	n fem
+بوک	n masc
+بول	adv
+بولأئ	n fem
+بولی	n fem
+بولُوک	adj
+بونگو	n masc
+بورا	n masc
+بوراخ	n masc
+بوری	n fem
+بورقا	n masc
+بوت	n masc
+بوتا	n masc
+بوتل	n masc
+بوتلیٹ	n fem
+بوٹ	n masc
+بوٹی	n fem
+بوٷ	vt
+بوویوال	n masc
+بوز	n masc
+بوزدا	adj
+بُو	vt
+بُو	vt
+بُوآز	n masc
+بُدلوٹ	n masc
+بُوگار	n masc
+بُوگیأر	n fem
+بُگنا	n masc
+بُوگور	n masc
+بُغُض	n masc
+بُژوٷ	vt
+بُک	adj masc
+بُک	n masc
+بُوکا	n masc
+بُکھاچا	n masc
+بُکھات	n fem
+بُکھّے	adj fem
+بُکھیت	n fem
+بُوکھو	adj masc
+بُوکھو	adj
+بُکتھأن	n fem
+بُولُوغ	n fem
+بُلوغت	n fem
+بُومارِگی	n fem
+بُومارِک	interj
+بُون	n fem
+بوُنیروال	n masc
+بُنو	vt
+بنیاد	n masc
+بُورا	n fem
+بُروٷ	vt
+بُرجی	n fem
+بُورُون	n fem
+بُوڑُو	vt
+بُوسکی	n fem
+بُت	vi
+بُت	vt
+بُٹ	adj
+بوُٹی	n fem
+بخاری	n fem
+بُخُل	n masc
+بُزرِگی	n fem
+بُزڑو	n masc
+بُزرُوگ	adj
+بُوژُو	vi
+چابی	n fem
+چاگُو	adj masc
+چاگُوراٹ	adj masc
+چاکُو	n masc
+چال	n fem
+چال	adj masc
+چالاک	adj
+چالان	n masc
+چالُو	adj
+چام	n masc
+چان	n masc
+چان	n fem
+چانا	n masc
+چاپ	adj
+چاپ	n masc
+چاپ	n masc
+چاپا	n masc
+چاپیرا	adv
+چاپلوس	adj
+چاپلوسی	n fem
+چار	adj masc
+چار	vi
+چاروٷ	vi
+چاربانگ	n masc
+چارچُکِئ	n masc
+چارگُل	n masc
+چارمیخ	adj
+چارپا	n masc
+چارشیمے	n fem
+چارخانہ	n masc
+چاڑَگئ	n masc
+چاش	n masc
+چاش	n masc
+چاٹئ	n masc
+چاخ	adj
+چاںئ	n masc
+چَبُو	vt
+چَچَکئی	n masc
+چَدَش	num
+چگوباٹ	n masc
+چغا	n fem
+چغڑا	adj
+چَئی	n masc
+چَئی	n masc
+چجا	n masc
+چَکا	n masc
+چکر	n fem
+چکر	n fem
+چکر	n fem
+چکَری	adj
+چکڑا	n fem
+چکھُو	vt
+چکلا	n masc
+چکنی	n fem
+چَکسور	n fem
+چلَوؤ	vt
+چلغوزے	n fem
+چلُو	vi
+چَم	n masc
+چماچئ	adj
+چمان	n masc
+چمار	n masc
+چَمگیل	adj
+چمَگُو	vt
+چَمَکُو	vt
+چملوٷ	vt
+چَمن	n masc
+چَمراٹ	adj
+چَمَرٹھا	n masc
+چمبار	adj
+چَملو	n masc
+چَملوٹ	n masc
+چَمو	n masc
+چَموٹ	n masc
+چَمپل	n masc
+چمٹا	n fem
+چَن	n fem
+چن	adj
+چندہ	n masc
+چنڈَوٷ	vt
+چنڈھا	n fem
+چنجل	adj
+چَنجُو	vt
+چَنو	n masc
+چَنوٹ	n masc
+چَنگ	n masc
+چَپا	n masc
+چپارَن	n fem
+چپاتے	n fem
+چَپاٹے	n fem
+چپل	n masc
+چپدَس	adj masc
+چپڑاسَئ	n masc
+چَقا	n fem
+چقوٷ	vt
+چَر	adj
+چرڑُو	vt
+چرَس	n masc
+چَرَٹ	n masc
+چَرچرأ	n fem
+چَریس	n masc
+چرنی	adj fem
+چرسی	adj
+چرخال	n masc
+چڑاخ	n fem
+چڑَھئ	n fem
+چَڑَقا	n fem
+چَش	n masc
+چت	n masc
+چَتن	n fem
+چتر	n masc
+چترگھا	n masc
+چتش	num
+چَتگام	n masc
+چتَری	n fem
+چَٹ	n masc
+چٹک	adj
+چٹکنی	n fem
+چٹُو	n masc
+چَوؤ	num
+چوبیش	num
+چوگُوٹھال	adj
+چَوؤکاٹ	n masc
+چَوٷکن	adj
+چَورَس	adj
+چوسار	n masc
+چوسی	n fem
+چَوانیس	n masc
+چَوارے	n fem
+چواٹ	adj
+چَوُو	vt
+چَخن	adj
+چأ	n fem
+چأچیکُوڑا	adv
+چأئی	n fem
+چأک	n fem
+چأک	n fem
+چأل	adj fem
+چألأکی	n fem
+چألپی	n fem
+چأنگ	n fem
+چأنگُو	vi
+چأر	adj fem
+چأری	n fem
+چأخِنی	n fem
+چے	n fem
+چَیات	vt
+چَیدے	n fem
+چَیئ	n fem
+چیئ	n masc
+چیناک	n masc
+چَیک	adj fem
+چیک	n fem
+چیل	n fem
+چیلا	n masc
+چیلیک	n fem
+چینچینأک	n fem
+چَینے	n fem
+چَینے	n fem
+چینین	n fem
+چینجیلیئ	n fem
+چینجی	n fem
+چَیپ	n masc
+چیر	adj
+چیریٹ	n fem
+چیشمے	n fem
+چیت	n fem
+چیتر	n masc
+چیٷ	vt
+چیَویل	n fem
+چھام	n fem
+چھانجا	n masc
+چھاپ	n masc
+چھاپ	n fem
+چھاپا	n masc
+چھارُو	vt
+چھآڑ	n fem
+چَھل	n fem
+چَھل	n fem
+چَھل	n fem
+چَھل	n fem
+چھَلنگوٷ	vt
+چھلنگُو	vi
+چھلے	adv
+چھمبر	n masc
+چَھر	n masc
+چَھری	n fem
+چَھرو	vi
+چَھڑی	n fem
+چَھتو	n masc
+چھوَن	n masc
+چھأل	n fem
+چھألال	n masc
+چھألال	adj
+چھیألو	n masc
+چھألوٹ	n masc
+چھیأر	n fem
+چھیا	n masc
+ڇھیان	n fem
+چھیدے‌	n fem
+چھیدِیم	adj
+چھیئ	n fem
+چھیک	n fem
+چَھیلِم	adj
+چھی	pro
+چِھژول	n masc
+چِھن	vt
+چِھینجو	n masc
+چِھنجُو	vi
+چھِینُو	vt
+چِھریٹ	n fem
+چھودو	n masc
+چھوٷ	vt
+چھوٷ	vt
+چی	pp
+چی	n masc
+چی	n fem
+چِیبُو	vt
+چِیچَوِیل	adj fem
+چِچڑا	n masc
+چیگا	n fem
+چیگابان‌	n fem
+چِیگی	n fem
+چِگین	n fem
+چِگینیڜ	n fem
+چِگینڜُو	vt
+چِیژَل	n masc
+چِژول	n masc
+چِک	n fem
+چِک	adj fem
+چِک	n fem
+چِلِم	n masc
+چِلِم	n masc
+چِلیڜ	n masc
+چِمین	n fem
+چیمی	n fem
+چِمیڜ	n fem
+چیمو	n masc
+چیموبھان	n masc
+چِینار	n fem
+چِنَئ	n masc
+چینی	n fem
+چینو	n masc
+چینوٹ	n masc
+چِینگُو	vi
+چِیپ	n fem
+چِیر	n fem
+چِیراٹ	adj
+چِریڑ	n fem
+چِیرُو	vi
+چِش	n fem
+چِش	n fem
+چِت	vi
+چِٹ	n fem
+چِٹ	n fem
+چِٹا	n fem
+چِٹاکی	n fem
+چِٹی	n fem
+چِیوُو	vt
+چِژکئی	n masc
+چو	n masc
+چو	adj
+چودو	n masc
+چوغوتو	n masc
+چوغوتُو	vt
+چوہو	interj
+چوک	adj
+چوکا	n masc
+چوکی	n fem
+چوکرا	n masc
+چولے	n fem
+چولوک	n masc
+چون	n masc
+چونڈو	n masc
+چونجو	n masc
+چونو	adj
+چونوآ	n masc
+چونوڙانگ	adj
+چوپ	n masc
+چوپال	n masc
+چوپالگئ	n masc
+چوپیأ	adv
+چوراک	n fem
+چوراٹ	n masc
+چورباتی	n fem
+چورُوٹ	n masc
+چوت	n masc
+چوت	n masc
+چوتئی	adj masc
+چوٹھاک	n fem
+چوٹیال	n masc
+چُو	n masc
+چُو	n fem
+چُو	n masc
+چُوآگُن	n masc
+چُدُوگُو	vt
+چُدُگون	n masc
+چُوگیل	n fem
+چُگورو	n masc
+چُک	adj masc
+چُکا	n masc
+چُکارَن	n fem
+چُکھا	n masc
+چُکھاچا	n masc
+چُول	n fem
+چُوم	n masc
+چُمچماٹ	adj masc
+چُومُو	vt
+چُومُوڑیل	n fem
+چُموٹ	n masc
+چُوموٹھیل	n fem
+چُن	adj
+چُون	n fem
+چُنا	n masc
+چُنگی	n fem
+چُونگورُوٹ	adj
+چُونگوروٹھا	n masc
+چُوپأک	n fem
+چُورڑئی	n fem
+چُروُت	n masc
+چُرُوتی	adj
+چُروٹی	n fem
+چُوڑَئ	n masc
+چُڑی	n fem
+چُسنی	n fem
+چُوڜ	n fem
+چوڜُو	vt
+چُتُڑ	n masc
+چُتیا	n masc
+چُٹی	n fem
+چُٹی	n fem
+ڇا	num
+ڇاب	n fem
+ڇاگُوٹھال	adj
+ڇاک	adj masc
+ڇاک	n fem
+ڇآن	n fem
+ڇاٹ	n fem
+ڇَبیش	num
+ڇَبیشَم	adj
+ڇیئشا	adv
+ڇَگاچا	n masc
+ڇَم	n masc
+ڇماک	n masc
+ڇَمَگُو	vt
+ڇڑکُل	n masc
+ڇَڑوُ	vt
+ڇَووُ	vi
+ڇیأگو	n masc
+ڇأنگ	n fem
+ڇأنگ	n fem
+ڇأر	n fem
+ڇے	n fem
+ڇے	n masc
+ڇیگا	adv
+ڇیگے	n fem
+ڇیگے	n fem
+ڇیگیرأ	adv
+ڇیک	n fem
+ڇیریٹ	n fem
+ڇیڑکِل	n fem
+ڇیڜ	n fem
+ڇیش	num
+ڇھا	n masc
+ڇھامباٹ	n masc
+ڇھان	n fem
+ڇھانُو	vt
+ڇَھئ	n masc
+ڇَھلُو	vi
+ڇَھنی	n fem
+ڇَھوَل	n masc
+ڇھینِیل	n fem
+ڇھی	n fem
+ڇِھیی	n masc
+ڇھی	n fem
+ڇھیاڇھی	n masc
+ڇِھیئل	adj
+ڇِھگ	n fem
+ڇِھگوُ	vi
+ڇِھل	n masc
+ڇھیمُو	vi
+ڇھیوَن	adj
+ڇِیھڙا	n masc
+ڇھِڙوُ	vt
+ڇھوآٹ	adj
+ڇھون	adj
+ڇھوُو	vt
+ڇُھو	n fem
+ڇیال	n masc
+ڇیانگ	n fem
+ڇِب	n fem
+ڇِگُو	vi
+ڇِک	n fem
+ڇِڙرگن	adj masc
+ڇِڙین	n fem
+ڇِیڙُو	vt
+ڇو	n masc
+ڇو	n masc
+ڇوگُو	vt
+ڇُبُو	vt
+ڇُگاڇُگ	n masc
+ڇُگاٹ	n masc
+ڇُگُو	vt
+ڇوُئ	adj
+ڇُووأڜ	adv
+ڇُووأڜُک	adj
+ڇُوُوو	vt
+دا	conj
+دا	adv
+داد	n masc
+دادا	n masc
+دادو	n masc
+داغ	n masc
+داغُو	vt
+دائرہ	n masc
+داک	n fem
+دال	n masc
+دالان	n masc
+دامیل	adj
+دامڑی	n fem
+دامُو	vt
+دان	n masc
+دان	n fem
+دانمیٹ	n fem
+دانیال	n masc
+دارُو	n masc
+داروأٹ	n fem
+داڜ	n fem
+دات	n masc
+داٷ	n fem
+دعویٰ	n fem
+دعوت	n fem
+داخ	n masc
+داخلہ	n fem
+دبدبہ	n masc
+دَبکے	adv
+دَدالُو	vt
+دفعہ	n fem
+دفتر	n masc
+دَگ	n masc
+دجال	n masc
+دَک	n masc
+دَل	n masc
+دَل	n masc
+دلا	n masc
+دلال	n masc
+دلاس	n masc
+دلیدا	adj
+دَم	n fem
+دَم	n fem
+دما	n fem
+دَما	n fem
+دما	n fem
+دمکی	n fem
+دَن‌	n masc
+دَن	n masc
+دَندا	n fem
+دنداسہ	n fem
+دَنجو	n masc
+دَنو	n masc
+دَنوٹ	n masc
+دَنشُول	n fem
+دَر	n masc
+دَر	n masc
+درہ	n masc
+درال	n masc
+دَرک	n fem
+درنگ	n masc
+درَڑ	n masc
+درَستخان	n masc
+درز	n masc
+درَزا	n fem
+درزؤ	vt
+درزُو	vi
+دربأٹ	n fem
+دری	n fem
+دریزو	n masc
+درمیانہ	adj
+درولئی	n fem
+دَروڑ	n fem
+درڜاڜ	n masc
+درشَئ	n fem
+درشل	n fem
+درشینے	interj
+درواز	n masc
+دریاب	n masc
+درزی	n masc
+درزی	n masc
+دَڑ	n masc
+دَڑ	n fem
+دڑا	n masc
+دَڑہ	n masc
+دڑدا	n masc
+دڑی	n fem
+دَس	n masc
+دستی	adv
+دستوُر	n masc
+دَش	num
+دشَم	adj
+دَت	vi
+دَولت	n fem
+دَوتر	n masc
+دو ات	n fem
+دَوَئی	n fem
+دَویل	adj
+دَوُو	vt
+دأ	n fem
+دأد	n fem
+دأدی	n fem
+دأل	adj
+دأن	n fem
+دأن	n fem
+دے	n masc
+دے	n fem
+دے	pp
+دے	pp
+دیگ	n masc
+دیمیل	n fem
+دیندریس	n fem
+دیقان	n masc
+دیرہ	n masc
+دیرأن	n fem
+دیرے	adv
+دیریل	n fem
+دیرکأن	n fem
+دیشا	adv
+دیشینو	n masc
+دَیت	n fem
+دیو	vt
+دیو	n masc
+دیوال	n masc
+دیزُوخ	n fem
+دھان	n fem
+دھاپ	n masc
+دھات	n fem
+دھژَنیئی	n fem
+دھژوٷ	vt
+دھژیل	adj
+دھَژُو	vi
+دھلام	n masc
+دھم	n masc
+دھمَوٷ	vt
+دھمُو	vi
+دھمُوخ	n masc
+دَھن	n masc
+دَھندَل	n masc
+دَھر	n masc
+دَھرَن	n masc
+دھرَن	adj
+دَھریل	adj
+دَھرمَسال	n masc
+دھرُو	vi
+دَھت	vi
+دھوان	n masc
+دھأدُو	adv
+دھأک	adj
+دھأل	adj
+دھأںئ	n fem
+دھیدأن	n fem
+دھین	n fem
+دَھیر	n fem
+دھیرین	n fem
+دھیرخُن	n fem
+دِھیمی	n fem
+دِھیمی	n fem
+دِھیر	n fem
+دھویم	adj
+دھوئیشا	adv
+دھوگوکوٷ	vt
+دھون	n masc
+دھوٷ	vt
+دُھو	adj
+دُھو	n fem
+دُھئیر	adj
+دُھگیل	adj
+دُھگُو	vt
+دُھگُو	vi
+دُھم	n masc
+دُھنکاش	n masc
+دُھت	n masc
+دی	n masc
+دی	suffix
+دیدن	n masc
+دِکا	n fem
+دِماغ	n masc
+دِین	n fem
+دیندار	adj
+دِیریستان	n masc
+دریخیل	n masc
+دِیرلام	n masc
+دِش	n fem
+دِت	vt
+دو	suffix
+دو آش	num
+دو بادوب	n masc
+دو ک	n fem
+دو کا	n fem
+دوکان	n masc
+دوکان دار	n masc
+دوکان دأری	n fem
+دو نو	n masc
+دو نو	n masc
+دو نو	n masc
+دو پَن	n masc
+دَور	n masc
+دو را	n fem
+دو رہ	n fem
+دو ڑا	n fem
+دو ست	n masc
+دُو	num
+دُعا	n masc
+دُوبرگا	adj
+دُوبِیش	num
+دُوبِیشم	n masc
+دُوچَن	adj
+دو ُد	suffix
+دُوگُن	adj
+دُگونوٷ	vt
+دُوئ	adj
+دُوجالا	adj
+دُک	n masc
+دُمبالاپُور	n masc
+دُونیئ	n fem
+دُوپ	n fem
+دُوپڑ	adj
+دُوپیسِن	n fem
+دُوپھأمے	n fem
+دُوپُھنگَل	adj
+دُرا	n masc
+دُریئی	n fem
+دُرخان	n masc
+دُوڑہ	n fem
+دُوڑادباؤ	n masc
+دُوڑَٷ	vt
+دُسو	n masc
+دُوشیمے	n fem
+دُشمن	n masc
+دُشمینی	n fem
+دُووآر	adv
+ڈاڈ	adj
+ڈاڈ	n masc
+ڈاڈ	n fem
+ڈاڈ	n masc
+ڈاڈگیرَنہ	n fem
+ڈاگ	n masc
+ڈاگ	n masc
+ڈاگا	adv
+ڈاگی	n masc
+ڈاکومأری	n fem
+ڈال	n masc
+ڈالی	n masc
+ڈالُو	vt
+ڈان	n masc
+ڈانگ	n masc
+ڈانگ	n masc
+ڈانگا	n masc
+ڈانگا	adj
+ڈانگا	n masc
+ڈاپ	n masc
+ڈَب	n fem
+ڈبہ	n masc
+ڈڈگھا	n masc
+ڈَک	adj
+ڈَکُن	n masc
+ڈلا	n fem
+ڈَلبأزی	n fem
+ڈلُو	vi
+ڈم	n masc
+ڈملکَئی	adj
+ڈنڈغاڑے	n fem
+ڈنجا	n fem
+ڈَنجُو	vi
+ڈَپ	adj
+ڈپھاچا	n masc
+ڈوَئی	n masc
+ڈَووگو	n masc
+ڈزا	n fem
+ڈأگیر	n fem
+ڈأگی	adj
+ڈأن	n fem
+ڈے	n masc
+ڈیبیر	n masc
+ڈیگوٷ	vt
+ڈیگُو	vi
+ڈیمین	n fem
+ڈیںگیل	n fem
+ڈیڑک	n fem
+ڈیٹ	adj
+ڈیو	vi
+ڈیو	vt
+ڈھا	n masc
+ڈھاگوُ	vi
+ڈھاک	n masc
+ڈھاک	n masc
+ڈھاکُو	n masc
+ڈھان	n fem
+ڈھار	n masc
+ڈھار	n fem
+ڈھاٹ	n masc
+ڈھڈا	adj
+ڈَھک	adj
+ڈھنڈک	n masc
+ڈھنڈکُل	n masc
+ڈھپّا	n fem
+ڈَھپَوؤ	vt
+ڈھرَقُو	vi
+ڈھأک	n fem
+ڈھأروش	adj
+ڈھے	n fem
+ڈھے	n fem
+ڈھیکیر	n fem
+ڈھیپ	n fem
+ڈھیپَوٷ	vt
+ڈھیپُھوزوُک	adj
+ڈھیپوُ	vi
+ڈھیران	n masc
+ڈھیری	n fem
+ڈھیری	n fem
+ڈھیریگئ	n fem
+ڈھیس	n fem
+ڈھیوُل	adj
+ڈِھگی	n fem
+ڈِھیگیریٹ	n fem
+ڈِھجان	n fem
+ڈِھل	n fem
+ڈھِنجُو	vi
+ڈِھینگ	n masc
+ڈِھنگ	n masc
+ڈِھنگیل	n fem
+ڈھِینگو	n fem
+ڈِھس	n fem
+ڈِھیٹ	n fem
+ڈھو	n masc
+ڈھو	n masc
+ڈھوک	n masc
+ڈھوس	n fem
+ڈُھوگول	n masc
+ڈُھوگُو	n masc
+ڈھُوگُو	n masc
+ڈُھلُگُو	vi
+ڈھُوں	n masc
+ڈی	n masc
+ڈِبری	n fem
+ڈِیڈی	n fem
+ڈِیگی	n fem
+ڈِیگی	adj fem
+ڈِیگُو	n fem
+ڈیلیوَر	n masc
+ڈِںگئ	n fem
+ڈِنگیریک	adj
+ڈِٹ	vt
+ڈو	n masc
+ڈو	n masc
+ڈبوگو	n masc
+ڈوڈا	n masc
+ڈوڈا	n masc
+ڈوڈا	n masc
+ڈوڈَگُو	vt
+ڈوڈوگیل	adj
+ڈوڈخول	n masc
+ڈوغول	n fem
+ڈول	n masc
+ڈولا	n masc
+ڈولی	n fem
+ڈولی	adj
+ڈوم	n masc
+ڈونگ	n masc
+ڈوپ	n masc
+ڈُوب	adj
+ڈُوبَوٷ	vt
+ڈوبنا	n masc
+ڈُوگاچا	n masc
+ڈُوگُو	adj
+ڈوگُوڈاگ	n masc
+ڈوگوڜاڜ	n masc
+ڈُوگوڜاڜ	n masc
+ڈُولُو	n masc
+ڈُومام	n masc
+ڈُونگا	n masc
+اے	adj
+اے	pro
+اے	interj
+ایگال	adj
+ایگأٹ	adv
+ایگبین	adj
+ایگھون	adj
+ایگیلیش	adj
+ایگُون	adj
+ایگونئ	adj
+ایغُولوُس	adj
+ایک	num
+ایکدم	adv
+ایکھار	n masc
+ایکشیمے	n fem
+ایل	adv
+ایل	suffix
+علاج	n masc
+ایلین	adj fem
+این	suffix
+اینیش	adj fem
+ایر	n fem
+ایڜ	adv
+ایڜوک	adj
+ایشا	adv
+ایشے	adj fem
+اےتلَغا	adv
+ایخَدے	adj
+ایختان	adj
+ایز	pro
+ایڙو	adv
+ایڙُک	adj
+فالج	n masc
+فالتو	adj
+فاتحہ	n fem
+فئیدا	n masc
+فَرا	n fem
+فراغا	adj
+فرازبین	n masc
+فَرق	n fem
+فرقیئ	n fem
+فَرَش	n masc
+فَرَض	n masc
+فرمائش	n fem
+فساد	n masc
+فصَل	n masc
+فیرنگئی	n masc
+فِیراق	n masc
+فولاد	n masc
+گا	vi
+گا	n fem
+گاب	n masc
+گاڈ	adj
+گاڈیرہ	n masc
+گاگیر	adj
+گاک	n masc
+گال	n fem
+گالُو	vt
+گالُو	vt
+گالوس	n masc
+گام	n masc
+گامو	n masc
+گاموش	adj
+گان	n fem
+گان	n masc
+گانا	n fem
+گانگُوڑا	adj masc
+گارَد	n fem
+گاڑے	n fem
+گات	n masc
+گاؤریٹ	n fem
+گاوَنڈی	n masc
+گازَرے	n fem
+گاںئ	n masc
+گَبرال	n masc
+گدیلا	n masc
+گڈسرہ	conj
+گڈوَڈ	adj
+گئے	n fem
+گئے	n fem
+گئ	n fem
+گئ	n fem
+گِیو	vi
+گِیو	vi
+گِیو	vi
+گَجَنُو	vi
+گَل	n masc
+گلا	n masc
+گلا	n masc
+گَلاگَل	adj
+گَلفَن	n masc
+گلی	n fem
+گلپھن	n masc
+گلو	vi
+گن	adj
+گن	n fem
+گن	suffix
+گنا	n fem
+گندھاب	n masc
+گنڈیرے	n fem
+گنے	n fem
+گَنجُو	vi
+گَنتڑ	n masc
+گنڑاگُورا	n fem
+گنگس	adj
+گپ	n fem
+گَرَنجُو	vi
+گرے	n masc
+گَرگُوبانڈہ	n masc
+گری	n fem
+گرفتار	adj
+گرمالا	n masc
+گرمَکے	n fem
+گَڑانگ	n masc
+گڑَن	n masc
+گڑَزا	n fem
+گڑَزُو	vi
+گڑبڑ	n fem
+گڑدَنی	n fem
+گڑی	n fem
+گڑی	n fem
+گڑی	n fem
+گڜُو	vt
+گتا	n masc
+گتھار	n fem
+گٹا	n fem
+گٹا	n fem
+گٹکھار	n fem
+گوَلیر	n fem
+گیا	n masc
+گز	n masc
+گَجُو	vi
+گیأل	n fem
+گأمی	n masc
+گأر	n fem
+گیأت	n fem
+گے	pp
+گیدر	n masc
+گیڈی	n fem
+گیکھأ	n fem
+گیکھیأن	n fem
+گیکھی	n masc
+گیل	n fem
+گیل	n fem
+گیل	n fem
+گیلکار	n masc
+گیلکأری	n fem
+گینٹہ	n masc
+گینٹی	n fem
+گیر	adj
+گیر	n fem
+گیرچاپیرا	adv
+گیریمی	n fem
+گیٹ	n fem
+گھا	n masc
+گھان	n masc
+گھان	n fem
+گھانا	adj
+گھانوؤ	vt
+گھڈپُش	n masc
+گھۓ	n fem
+گھگجَوٷ	vt
+گھن	adj
+گھناچا	n masc
+گھنار	n masc
+گھندآپ	n masc
+گھنڈُو	vt
+گھنین	n fem
+گھنجَئ	n masc
+گھنوگھوس	n masc
+گھنولا	n fem
+گھنوڜو	n masc
+گھنُو	vt
+گَھنُو	vt
+گھںگاپُر	n masc
+گھںگئی	n fem
+گھرنجا	n fem
+گھَرَٷ	vt
+گَھرُو	vt
+گھڑَوؤ	vt
+گھڑُو	vt
+گَھڑُو	vt
+گھڅَئ	adj
+گھڙُو	vt
+گھأن	n fem
+گھأنڈی	n masc
+گھأنی	n fem
+گھیبِن	adj
+گھیدے	n fem
+گھیمی	n fem
+گھین	adj fem
+گھینأ	n fem
+گھینڈیل	n fem
+گھینیئ	n fem
+گھینیل	n fem
+گھینیلی	n fem
+گھیریٹ	n fem
+گھیڜ	n fem
+گھیوِین	adj
+گھِیدگھولیئ	n fem
+گھِداگھِد	n masc
+گِھیل	n fem
+گِھینُو	vt
+گِھینُو	vt
+گھینگَرگھول	n masc
+گِھریٹ	n fem
+گِھت	n masc
+گِھزی	n fem
+گھو	n masc
+گھودو	n masc
+گھودوڈے	n masc
+گھودوگھا	n masc
+گھودولان	n masc
+گھول	n masc
+گھولأئ	n masc
+گھومار	n masc
+گھومُو	n masc
+گھونگ	adj
+گھونگول	n masc
+گھوراڜ	n fem
+گھوروٹ	n masc
+گھوڑ	adj
+گھوش	n fem
+گھوشُول	n fem
+گھوزیئ	n masc
+گھوڙاک	n fem
+گھوڙاڜ	n fem
+گُھگُھور	n masc
+گُھگُھور	n masc
+گُھلُو	vi
+گھُمین	n fem
+گُھمُو	vt
+گُھن	n masc
+گُھن	n masc
+گھُنگئ	n masc
+گھُونگولُوس	n masc
+گھُنگُوسی	n fem
+گھُورُومُو	vi
+گُھرُڑو	vt
+گُھواٹ	adj masc
+گُھووُو	vi
+گھُوزُڑُو	vi
+گِبیلی	n fem
+گیِدی	adj
+گِیگھید	n fem
+گِلا	n masc
+گِلامَن	adj
+گیلَٹ	n masc
+گِلیژین	n fem
+گِم	n fem
+گِیر	n fem
+گِراک	n masc
+گِریک	n fem
+گِرین	n masc
+گِریوان	n fem
+گِڑزگڑز	n masc
+گِیت	n fem
+گَیو	vi
+گو	n masc
+گوڅاروَئ	n masc
+گواخ	n masc
+گواخَوٷ	vt
+گوأکے	conj
+گوچِپ	n masc
+گودام	n masc
+گوڈ	n masc
+گوڈ	n masc
+گوگأل	n fem
+گوک	n masc
+گولاپ	n masc
+گولأبی	adj
+گولی	n fem
+گون	n masc
+گون	n masc
+گوپان	n fem
+گوپھلے	n fem
+گوپی	n fem
+گور	n masc
+گور	n masc
+گور	n masc
+گورا	n masc
+گورِستان	n masc
+گوڑَئی	n masc
+گوس	n fem
+گوشتی	adj
+گوٹھو	n masc
+گوؤ	n masc
+گوولیر	n fem
+گووأ	n fem
+گوریت	n masc
+گوخمال	n masc
+گُو	n masc
+گُو	vi
+گُو	adj
+گُو	vi
+گُدُل	n masc
+گُڈڈانگ	n masc
+گُوگا	n fem
+گُوگُو	n masc
+گجربن	n masc
+گُوجُور	n masc
+گُجُورأن	n fem
+گُجرنامہ	n fem
+گُلام	n masc
+گُلأم	n fem
+گلبدن	n masc
+گلوبند	n masc
+گُولُت	n masc
+گُمان	n masc
+گُماشتہ	n masc
+گُمأنی	adj
+گُمبد	n masc
+گُمبَت	n masc
+گُمرَیئ	n fem
+گُن	suffix
+گُنا	n masc
+گُونا	n masc
+گُناگا	n masc
+گُنیا	n fem
+گُنجی	n fem
+گُپ	n masc
+گُر	n masc
+گُراگُگُون	n masc
+گُراکُرُون	n masc
+گُرنال	n masc
+گُورنئی	n fem
+گُرنیوال	n masc
+گُرمجَن	adj
+گُروش	n masc
+گُت	n masc
+گُت	n masc
+گُت	n masc
+گُوتُھر	n masc
+گُوتُھر	n masc
+گُٹ	n masc
+گُوٹھال	adj
+گُیُور	n masc
+گُیُوربَن	n masc
+گُزارا	n fem
+گزاراحال	adj
+گُزاردار	adj
+گُوزوٷ	vt
+غافِل	adj
+غار	n masc
+غاڑے	n fem
+غلط	adj
+غلبُلا	n fem
+غلے	adj
+غلطی	n fem
+غم	n masc
+غمَئ	n masc
+غمجن	adj
+غَنی	n fem
+غپُو	vi
+غرا	adj
+غرَبئی	n masc
+غرَک	adj
+غرَوؤ	vt
+غرض	n fem
+غرَضی	adj
+غرضمن	adj
+غرأ	n fem
+غریب	n masc
+غریبی	n fem
+غڑغڑأ	n fem
+غڑی	n fem
+غزا	n masc
+غضب	n fem
+غزل	n masc
+غیب	adj
+غیبانا	adv
+غیبت	n fem
+غیبی	adj
+غیردین	adj
+غوگین	n masc
+غوئمَن	n fem
+غوئمنڈَئ	adj
+غوجل	n fem
+غولام	n masc
+غولے	n fem
+غور	adj
+غورا	adj
+غورآ	n masc
+غوریجو	n masc
+غوری	n fem
+غوریجہ	n fem
+غورشل	n fem
+غُلغُلے	n fem
+غُپا	n fem
+غُصہ	n fem
+غُسُل	n masc
+غسُولی	n fem
+غُوٹہ	n masc
+غُٹہ	n fem
+غُوٹہ	n masc
+غُٹا	n fem
+غُوٹی	n fem
+ہا	n masc
+حد	n masc
+ہادھیل	n fem
+ہاڈُو	adv
+ہاگا	n masc
+ہاگات	vt
+ہاگل	n fem
+ہاگَراڑ	n masc
+ہاگھا	n masc
+ہاگھادی	n masc
+ہاگوؤ	vt
+ہاہُو	n masc
+حج	n masc
+حاجت	n fem
+حاجتمَن	adj
+ہاک	n masc
+ہال	adj
+حال	n fem
+ہالاگُلا	n fem
+ہالاخ	adj
+ہلواش	n fem
+ہلیڜ	n masc
+حلوا	n masc
+ہامیل	n masc
+ہاموش	n masc
+ہامُو	adj
+ہامُوٹ	adv
+ہان	adj
+ہانا	adj masc
+ہانڈی	n fem
+ہاپا	n fem
+حق	n masc
+ہار	n masc
+ہار	n masc
+ہرَنڈا	n masc
+ہاروک	n masc
+ہارڑہ	n masc
+ہاڑ	n masc
+ہاش	adj
+ہات	n masc
+ہاتن	n masc
+ہاترانگ	n masc
+ہاترنگ	n masc
+ہاٷ	interj
+ہاوا	n fem
+ہاوار	adj
+ہواریئی	n fem
+ھوائی	n fem
+ہڙَژُو	vi
+ہاں	interj
+ہَدات	adj
+ہَیوؤ	vt
+ہفتہ	n masc
+ہَگراڑ	n masc
+حِی	n masc
+ہَئی	interj
+ہل	n masc
+حل	n masc
+ہَلا	interj
+حلال	n masc
+حلال	adj
+حلالہ	n fem
+حلالہ	n fem
+ہلئ	n fem
+ہلَم	n masc
+ہلڜَووُ	vt
+ہلَش	n masc
+حلخ	n masc
+ہلوُ	n fem
+ہلوا	adj
+حمام	n masc
+ہمسا	n fem
+ہمُو	vi
+ہنا	adj masc
+ہنَگُو	vi
+ہنڈا	n fem
+ہنڈوخور	n fem
+ہنڈُو	vi
+ہنجا	n masc
+ہانقاپ	adj
+ہانگئی	n fem
+حقدا	n masc
+ہر	n fem
+ہر	adj
+حرام	adj
+ہردلی	n masc
+ہریک	adj
+ہَریل	adj
+ہرکآم	adj
+ہرکلہ	adv
+ہرکی	n masc
+ہرمیشا	adj
+ہَرُون	adj masc
+ہروخ	adv
+ہاشر	n fem
+ہتار	n masc
+ہتھکڑے	n fem
+ہٹی	n fem
+حوالہ	n fem
+حوالدار	n masc
+ہواتا	adj
+ہاخوا	adj
+ہزبأت	n fem
+ہزُو	vi
+ہڙَوٷ	vt
+ہڙَیَوؤ	vt
+ہأدیر	n masc
+ہأدیر	n fem
+ہأئیمُو	adj
+حأجأن	n fem
+حأجی	n masc
+حأکِم	n masc
+حأکِم	n masc
+حألألی	adj
+ہألیڜین	adj
+ہأمأن	n fem
+ھأپیم	n masc
+ہأرأ	n fem
+حرأمی	adj
+ہأریک	n fem
+ہأریڜ	n fem
+ہأس	n fem
+ہأتی	n fem
+ہأز	n fem
+ہأں	interj
+ہے	pro
+ہے	interj
+ہیدیئمُو	adv
+ہیدیک	adv
+ہیڈ	n fem
+ہیل	n fem
+ہیرین	n fem
+ہیرین	adj fem
+ہَیس	interj
+ہیت	adv
+ہیٹکی	n fem
+حیض	n masc
+ہیضہ	n masc
+ہی	vi
+ہِیبہ	n fem
+حفاظت	n fem
+ہِیگُو	vi
+ہِجارا	n masc
+ہِجارگر	n masc
+ہجرت	n fem
+ہِیک	n fem
+حکمت	n fem
+ہِیلا	adv
+ہِیلا	n masc
+ہِیم	n fem
+ہِیما	adj
+ہیمال	n fem
+ہیمال	n fem
+ہِیمان	n masc
+ہیمدانا	n masc
+ہیمو	n masc
+ہِین	pro
+ہِنان	n fem
+ہندوانا	n masc
+ہندو	n masc
+ہِندوأن	n fem
+ہینڈو	n masc
+ہِنگ	n fem
+ہیرا	n masc
+حِرِص	n fem
+حِصہ	n masc
+حساب	n masc
+ہیسار	adj
+ہیساریئ	n fem
+ہیڜ	n fem
+حیتیأط	n fem
+ہِیو	interj
+ہِژُو	vi
+ہِژُو	vt
+ہوبھوؤ	vi
+ہوڑوم	adj
+ہوٷ	vi
+ہوٷ	interj
+ہُو	vi
+ہُب	n fem
+ہُوبُو	vi
+ہُدا	n masc
+ہُدادار	n masc
+ہُوگَوؤ	vt
+ہُوگَھلُو	vt
+حُجرہ	n masc
+ہُژُوگَوٷ	vt
+ہُجُگُو	vi
+ہُک	n fem
+ہُک	n fem
+حُکم	n masc
+حکومت	n fem
+ہُول	n fem
+ہُولُوک	n fem
+ہُم	conj
+ہُنر	n fem
+ہُنری	adj
+ہُنرمن	n masc
+ہُنڈی	n fem
+ہُور	n fem
+ہُرنُوکُو	n masc
+ہُورُوگُو	vt
+ہُرُونُو	n masc
+ہُس	n masc
+حُسندار	adj
+ہوُسی	n fem
+ہُشا	adj masc
+ہُشاتوب	n masc
+ہُشأ	adj fem
+ہُت	vi
+ہُوووُ	vi
+ہُز	n masc
+ہُوزوپا	n masc
+اِی	pro
+ئی	adv
+عبادت	n fem
+اِبھین	n fem
+اِبر	n masc
+اِبلیس	n masc
+عبرت	n fem
+عید	n fem
+اِدبار	n masc
+اِدبأری	adj
+اِدی	adv
+اِیفا	adv
+اِگّی	adj fem
+اِجازہ	n masc
+اِیلا	n fem
+عِلَم	n masc
+اِلیت	vt
+اِیم	suffix
+اِمام	n masc
+اِمامتی	n fem
+ایمان	n masc
+ایماندار	adj
+ایماندأری	n fem
+امداد	n masc
+اِمکان	n masc
+اِمتحان	n masc
+اِنآن	n fem
+اِنکار	n masc
+انکأری	adj
+اِنصاف	n masc
+اِنسان	n masc
+اِنسانیت	n fem
+اِنسے	n fem
+اِنگا	n masc
+اِنگولا	n masc
+اِپھٹ	adj fem
+اِقرار	n masc
+اِرادا	n fem
+اِریگُو	vi
+اِسباتُو	vt
+اِسی	pro
+اِسکنجہ	n masc
+اِسپائ	n masc
+اِسپارُو	vt
+اِسپلنی	n fem
+اِسپیغول	n masc
+اِسپیر	adj fem
+اِسپیردار	n masc
+اِسپیرگیئ	n fem
+اِسپور	adj
+اِسپوراچا	n fem
+اِسری	n fem
+اِستخ	adj
+اِستیفا	n fem
+اِستعمال	n masc
+اِستنجا	n masc
+اِستیقامت	n fem
+اِسخا	adj
+اِسخات	n masc
+اِڜ	n masc
+اِڜیت	vt
+اِڜکُو	n masc
+اِشارہ	n fem
+اِشارت	n fem
+اِشبان	n fem
+اِشیژَوؤ	vt
+اِشیمُو	vt
+اِشت	vi
+اِشکور	n masc
+اِشکُن	n masc
+اِشپنکئ	n masc
+اِشتُو	adj
+اِشخڑا	n fem
+اِشخون	n masc
+اِتیفاق	n masc
+اِتیفاقی	adj
+اِتکے	adv
+اِٹِھل	n fem
+اخلاص	n masc
+اخلأصی	adj
+عِزَت	n fem
+اِزدا	adj
+اِزغمُو	vt
+اِذن	n masc
+اِژبان	n fem
+اِیں	adv
+جادُو	n masc
+جادُوگر	n masc
+جال	n fem
+جآل	n masc
+جالی	n fem
+جالُو	vt
+جام	n masc
+جامہ	n masc
+جاما	n fem
+جان	n fem
+جانانا	adj
+جانماز	n masc
+جانگ	n fem
+جانگئ	n masc
+جاڑ	n masc
+جاش	n fem
+جاشُو	vt
+جَب	n masc
+جبا	n masc
+جبہ	n masc
+جبل	n fem
+جَدَک	n masc
+جگن	n masc
+جگھا	n masc
+جَہاد	n masc
+جہالت	n fem
+جہان	n fem
+جیئز	adj
+جل	adv
+جلَب	n masc
+جلُو	vi
+جمع	n fem
+جماڜ	n masc
+جن	n masc
+جن	adj
+جَن	adj
+جنت	n fem
+جنتی	adj
+جنَوٷ	vt
+جَنأل	adj
+جندَرا	n masc
+جنیلو	n masc
+جنتری	n fem
+جَنُو	vi
+جنگوٷ	vt
+جنگُو	vi
+جنگلا	n masc
+جنگرا	n masc
+جَراب	n masc
+جرگہ	n fem
+جری	n fem
+جڑی	n fem
+جڑی	n fem
+جَس	n masc
+جشگن	adj
+جٹ	adj
+جَٹگَن	adj
+جواب	n masc
+جواب	n masc
+جَوَئ	n fem
+جَوَرکس	n masc
+جزا	n fem
+جذبہ	n masc
+جأدا	adv
+جأگِنی	n fem
+جأل	n fem
+جأمیر	n fem
+جأمِل	n fem
+جأڑ	n fem
+جیب	n masc
+جیدون	n masc
+جیگے	n masc
+جیئ	n masc
+جَیئ	adj
+جیئداد	n masc
+جیل	n masc
+جیل	n masc
+جئیل	adj
+جیل	n masc
+جیلأ	n fem
+جین	n fem
+جَینأ	n masc
+جیندیل	n fem
+جینیل	n masc
+جیڑا	n masc
+جَیوٷ	vt
+جَیز	n fem
+جھا	n masc
+جھاگُو	vt
+جھاکتے	adv
+جھال	n masc
+جھال	n masc
+جھال	n masc
+جھام	n fem
+جھامری	n fem
+جھان	adj
+جھان	n fem
+جھانگ	n masc
+جھاپتے	adv
+جھاقا	n masc
+جھاراخیل	n masc
+جھاش	adj
+جھاش	n masc
+جھاخ	n masc
+جھاز	n masc
+جَھکا	n fem
+جَھل	n fem
+جھلام	n fem
+جھلوس	adj
+جَھلُو	n fem
+جَھلیا	n fem
+جَھن	adj
+جَھن	n masc
+جھنڈا	n masc
+جھنجال	n masc
+جَھپا	n fem
+جھپاڑ	n masc
+جَھپَئی	n fem
+جَھرٹوٷ	vt
+جھڑاق	n fem
+جَھڑقوؤ	vt
+جھڑقُو	vi
+جَھش	n masc
+جھأمی	n fem
+جھأںئ	n fem
+جھأںئی	n fem
+جھیکے	n fem
+جَھیل	n fem
+جھینجأ	n fem
+جھیڜ	n fem
+جھیشأڑ	n masc
+جھیٹ	n fem
+جِھلِگُو	vi
+جِھلِک	n fem
+جِھیم	n fem
+جِھین	n fem
+جِھینگ	n fem
+جِھڙی	n fem
+جھِیں	n fem
+جھوگول	n fem
+جھوگولُو	vt
+جھوک	n masc
+جھول	adj
+جھول	n masc
+جھولوتو	adj masc
+جھون	n fem
+جھونگوٹی	n fem
+جُھو	n masc
+جُھو	n masc
+جُھگُو	vt
+جُھول	n fem
+جُھلُوڜُو	vi
+جھُومُو	adv
+جُھن	n masc
+جُھنکئ	n masc
+جُھوڜ	n masc
+جی	n fem
+جی	exclam
+ژی	suffix
+جِب	n fem
+جیجی	n masc
+جِیم	n fem
+جِنِس	n masc
+جِتی	n fem
+جوآ	n masc
+جواگھا	n masc
+جوارگر	n masc
+جوأری	n fem
+جوأڑی	n fem
+جوبل	adj
+جوگ	n masc
+جوگا	adj
+جوگی	n masc
+جوگو	n fem
+جولا	n masc
+جولاپ	n masc
+جولی	n fem
+جور	adj
+جوراٹ	n masc
+جورما	n masc
+جوڑ	n masc
+جوڑ	n masc
+جوڑا	n masc
+جوڑی	n fem
+جوڑوک	adj
+جوڑتازہ	n fem
+جوڑُوخ	n masc
+جوش	n masc
+جوت	adj
+جوز	n fem
+جُو	n masc
+جُدا	adj
+جُدَئ	n fem
+جُولُوس	n masc
+جُمعہ	n fem
+جمالدار	n masc
+جُمات	n fem
+جُومَر	n masc
+جُنکئ	n masc
+جُونُو	adj
+جُرمانہ	n masc
+جُرُم	n masc
+جُوسا	n masc
+جُوٹھا	adj
+جُخ	adj
+جُختہ	adv
+جُذام	n masc
+ڃھاگُو	vt
+ڃھان	n fem
+ڃھانگ	n masc
+ڃھگال	n fem
+ڃھگلُو	vt
+ڃھمڑو	n masc
+ڃھنُو	vt
+ڃِھگُو	vt
+ڃِھک	n fem
+ڃھوگ	n fem
+ڃھوگور	n masc
+ڃھوگُو	vt
+ڃِگ	adj
+ڃِگاچا	n masc
+ڃِگھنئی	n fem
+ڃوک	n fem
+کا	pro
+کافُور	n masc
+کاگ	n masc
+کاگا	n masc
+کاگاچیگین	n fem
+کاگاوَلَنے	n fem
+کاگھن	n masc
+کاگمأ	n fem
+کاگُو	n masc
+کاکا	n masc
+کاکوڑا	n masc
+کاکسرا	n masc
+کال	n masc
+کالام	n masc
+کالَئ	n masc
+کالن	n fem
+کالوسَر	adv
+کالتوس	n masc
+کام	n masc
+کامبیل	n fem
+کامیک	pro
+کان	n masc
+کان	n masc
+کان	n masc
+کان	n masc
+کان	n fem
+کان	n masc
+کانا	n fem
+کانَڑ	n masc
+کانے	n fem
+کانٹیک	n masc
+کاریل	adj
+کارگلو	n masc
+کاریگر	n masc
+کارین	n masc
+کاروبار	n masc
+کارُو	vt
+کارخانہ	n masc
+کاڑ	n masc
+کاڑ	n masc
+کآس	n masc
+کاسِیرا	n fem
+کاڜول	n fem
+کاش	n masc
+کاٹ	adj masc
+کاٹھی	n fem
+کاواک	adj
+کاوو	n fem
+کآم	pro
+کآم	pro
+کَآں	adj
+کچہ	adj
+کچالو	n masc
+کچرے	conj
+کچے	interj
+کَچو	n masc
+کدَلُو	vi
+کۓ	n masc
+کئے	n fem
+کف	n masc
+کفن	n masc
+کَگادُو	conj
+کَگدُو	conj
+کگری	n fem
+کگوٷ	vt
+کَگیل	adj
+کِگی	n fem
+کہیم	n fem
+کہین	adj
+کئی	adv
+کیئدا	quote marker
+کَجَل	adv
+کژَن	n masc
+کجَنی	n fem
+کجُور	n masc
+کَل	n masc
+کلا	adv
+کلاکلا	adv
+کلاڜ	n masc
+کلھے	n fem
+کم	adj
+کَمَل	adj masc
+کَمَل	n masc
+کَمرخوا	n masc
+کمَصل	adj
+کموٷ	vt
+کمَوٷ	vt
+کمبل	n masc
+کَمبُو	vi
+کَمی	n fem
+کَمِین	n masc
+کمِین	adj
+کمرہ	n masc
+کمُو	vi
+کمزور	adj
+کمزورتیا	n fem
+کن	n masc
+کَنأ	exclam
+کنچھالی	n fem
+کنڈک	n masc
+کنڈَم	adj
+کنڈر	n masc
+کنڈھر	n masc
+کنڈھری	n masc
+کنیل	adj
+کنیس	n fem
+کنجل	n masc
+کنشالی	n fem
+کنتر	n masc
+کنتر	n masc
+کنگلوؤ	vt
+کراکر	n masc
+کراکُری	n fem
+کراٹ	adj
+کرَم	adj
+کرَڑیال	n masc
+کرَش	n masc
+کرَٹا	n fem
+کرَٹَن	n masc
+کربَھس	adj
+کردَت	adj
+کری	n fem
+کریل	adj
+کریمو	n masc
+کریموٹ	n masc
+کرما	n fem
+کرمَڑُو	vt
+کرپَڑُو	vi
+کروَندا	n masc
+کڑاٷ	n masc
+کڑَچَئ	n masc
+کڑما	n fem
+کڑَپہ	n masc
+کڑَپا	n fem
+کڑیل	adj
+کڑی	n fem
+کڑی	n fem
+کڑی	n fem
+کڑکئی	n fem
+کڑکڑَئی	n masc
+کڑکیچ	n masc
+کڑوسَئ	n masc
+کڑوسی	n fem
+کڑُو	vt
+کڑُو	vi
+کڑُو	vt
+کش	n masc
+کشال	n masc
+کشکا	n masc
+کشمالہ	n masc
+کشمی	n masc
+کتھان	n masc
+کٹھین	adj
+کٹھیناچا	n masc
+کٹی	n fem
+کَٹکَئ	n fem
+کواب	n masc
+کوَل	n fem
+کَخئی	n masc
+کیَئل	adv
+کیَن	n masc
+کژَل	adv
+کأ	pp
+کأفِر	n fem
+کأل	n fem
+کألیمو	n masc
+کأم	n fem
+کأن	adv
+کأنگ	n fem
+کأش	n fem
+کأش	adv
+کأٹنی	n masc
+کے	adv
+کے	pp
+کیبا	n masc
+کیدام	n masc
+کیدم	adj
+کیںیں	pro
+کیژا	pp
+کیلا	n masc
+کیلأ	adv
+کیلأش	n fem
+کیلأش	n fem
+کیمبیل	n fem
+کینچھی	n fem
+کینیل	n fem
+کینو	n masc
+کینگیل	n fem
+کیو	n masc
+کیوٹ	n masc
+کیرأ	n fem
+کیریڑی	n fem
+کیریٹھی	n fem
+کیرگیل	n fem
+کیَڑے	n fem
+کیڑے	n fem
+کیس	pro
+کیڜ	n fem
+کیش	n fem
+کیشے	n fem
+کیشکین	n fem
+کیتھیل	n fem
+کیتھی	n fem
+کیتلی	n fem
+کیترِنگ	n fem
+کیٹھیل	n fem
+کیوُک	adv
+کیوَت	adj
+کینئس	pro
+کیںئت	adv
+کینئدا	adv
+کھا	n masc
+کھاگُو	vi
+کھال	adj masc
+کھام	n masc
+کھامُو	adv
+کھامُوٹ	adv
+کھان	n masc
+کھان	n masc
+کھاندر	n masc
+کھار	n fem
+کھاڑ	n masc
+کھاڜ	n masc
+کھاڜتے	adv
+کھاش	adj masc
+کھاتہ	n fem
+کھاڙُو	vt
+کَھدات	pro
+کھڈونے	n masc
+کھۓ	n fem
+کھۓ	n fem
+کھگی	n fem
+کَھل	n fem
+کَھل	n masc
+کھمان	n masc
+کھماڜُو	vt
+کھمُو	vt
+کَھنا	n masc
+کھندیا	n masc
+کھندیاوال	n masc
+کھندیئی	n masc
+کھرَڜُو	vt
+کھرمیڜ	n fem
+کھرپا	n masc
+کَھرپَڑول	n masc
+کَھرسا	adj
+کَھرُوڜ	adj masc
+کھرُوڜاچا	n masc
+کھڑَن	adj       masc
+کھڑَناچا	n masc
+کھڑگن	adj masc
+کھڜا	n fem
+کھَش	n fem
+کھشگن	adj masc
+کھشکٹ	n masc
+کھٹ	n masc
+کَھٹَن	adj masc
+کَھوا	adj
+کھوَل	n masc
+کھَولَئ	adj masc
+کھزَر	n masc
+کھڙا	n fem
+کھڙأیدے	adv
+کھڜکھڙأ	n fem
+کھأ	adv
+کھیأدے	adv
+کھأگودُو	conj
+کھأکأ	adv
+کھأل	adj fem
+کھأن	n fem
+کھأنگ	n fem
+کھأش	adj fem
+کھأٷ	adv
+کھے	n masc
+کِھیا	n masc
+کھیدیک	adv
+کھیدیشا	adv
+کھیمینِین	n fem
+کھینأریڜ	n masc
+کھیو	n fem
+کھیریل	n fem
+کھیریڜ	adj fem
+کھیت	adv
+کھیت	n masc
+کھیوٷ	vt
+کھِگینُو	vi
+کھِلیپ	n fem
+کِھن	n fem
+کِھین	pro
+کِھنگو	n masc
+کِھیر	n fem
+کِھریڜین	n fem
+کھِڑ	adj fem
+کھِڜ	n fem
+کِھزرِک	n fem
+کھو	n masc
+کھوآ	n masc
+کھوب	adj
+کھودو	n masc
+کھودول	n fem
+کھوگول	n masc
+کھون	adj masc
+کھونا	n masc
+کھور	n masc
+کھوٷ	vt
+کھوڙور	n masc
+کُھو	n masc
+کُھو	n masc
+کُھو	n masc
+کُھڈ	adj masc
+کھُڈاچا	n masc
+کُھڈَوٷ	vi
+کُھگُوڑَٷ	vt
+کُھگُوش	n masc
+کھُژُوڑُو	vi
+کُھنابھا	adv
+کُھناۓ	adv
+کُھندِش	adv
+کُھنِم	adj
+کُھرکوٷ	vt
+کُھرمو	n masc
+کُھش	adj
+کھُڙأنگ	n fem
+کھُڙوُم	n masc
+کی	vt
+کی	n fem
+کی	adv
+کِچو	interj
+کِدی	adv
+کِیفا	adv
+کیگل	n masc
+کِیژی	n fem
+کیجِریٹ	n fem
+کیکر	n masc
+کِل	n fem
+کِل	n fem
+کِلأڑ	n fem
+کِلوغی	n fem
+کِم	n masc
+کِمی	n fem
+کِین	n fem
+کِنال	n masc
+کِنجی	n fem
+کِینوُ	vt
+کِیر	n fem
+کِریکا	n fem
+کِیرُو	vi
+کِڑکی	n fem
+کِسبت	n masc
+کِسی	pro
+کِڜ	n fem
+کِڜَن	adj fem
+کِڜناچا	n masc
+کِڜین	adj fem
+کِڜُو	vt
+کِش	n fem
+کیشأڑ	n fem
+کِشے	interj
+کِتاب	n masc
+کتابی	adj
+کِیوَر	n masc
+کو	conj
+کو	n masc
+کو	n masc
+کو	conj
+کوچَئ	n fem
+کوچأن	n fem
+کوگو	n masc
+کوئی	adv
+کوژو	n masc
+کوژومنجو	n masc
+کوک	n masc
+کوکأن	n fem
+کول	adj
+کولوٹ	n masc
+کومھو	n masc
+کومو	n masc
+کون	n masc
+کون	adj
+کوندھول	n masc
+کونو	n masc
+کونُو	n masc
+کور	n fem
+کورگول	n masc
+کوری	n fem
+کورمو	n masc
+کوروڑا	n masc
+کوروتنگے	n masc
+کروٹ	n masc
+کورتو	n fem
+کوڑے	n fem
+کوڑگو	n masc
+کوڑما	n fem
+کوڑو	n masc
+کوڑو	n masc
+کوڑوال	n masc
+کوڑوألی	n fem
+کوستان	n masc
+کوستنأ	adv
+کوستنی	n fem
+کوڜیژین	n fem
+کوڜین	n fem
+کوشش	n masc
+کوت	adj
+کوتھا	n masc
+کوٹ	n masc
+کوٹ	n fem
+کوٹ	n masc
+کوٹا	adj
+کوٹگی	n fem
+کوٹَلے	adj
+کوؤ	vt
+کوؤ	adv
+کوٷشیر	n masc
+کوژو	n masc
+کُو	n masc
+کُو	n masc
+کُو	adj masc
+کُو	n masc
+کُچئی	n masc
+کُوچر	adj
+کُچُو	n masc
+کُدال	n masc
+کدالَئ	n masc
+کُڈ	n masc
+کُڈچأک	n fem
+کُڈُو	vt
+کُوگأت	n fem
+کُوگھُول	n masc
+کُگُو	vi
+کُگو	n masc
+کُوھئ	n fem
+کُوکُو	adv
+کُل	n masc
+کُل	n masc
+کُل	n masc
+کُل	adj
+کُلال	n masc
+کُولال	n fem
+کُلات	n masc
+کلألی	adj
+کُلبن	n masc
+کُمُو	vi
+کُمُوچُو	vt
+کُومُوژو	vi
+کُن	n masc
+کُون	n fem
+کُنئی	n masc
+کُنداخ	n masc
+کُنڈی	n fem
+کُنڈیمار	n masc
+کُنڈول	n masc
+کنڈول	n masc
+کوُنین	n masc
+کُونی	adj
+کنجی	n fem
+کوپرا	n masc
+کُر	n fem
+کُوراٹ	n masc
+کُوراٹ	n masc
+کُورأٹ	n fem
+کُورے	interj
+کُوری	n masc
+کُرسی	n fem
+کُرُوک	adj
+کورُوڑیل	adj
+کُرُوڑُو	vt
+کُوڑی	n fem
+کُڑکی	n fem
+کُوسأریٹ	n fem
+کُسُو	vi
+کُڅوڑ	n masc
+کُترمان	n fem
+کُٹ	n masc
+کُٹھوٷ	vt
+کُٹورَئ	n masc
+کُیُو	n masc
+کُوزا	n masc
+کُوزمُلاخیل	n masc
+کُوزوڑ	n masc
+کُوزوڑی	n fem
+کُوژُو	n masc
+کُوژُوگھا	n masc
+کُوژُوروٹ	n masc
+لا	adv
+لاچی	n fem
+لافا	n fem
+لاگُو	vi
+لاہُو	adj
+لائیکوٹ	n masc
+لاج	n fem
+لاک	n fem
+لال	n masc
+لالا	n masc
+لالئ	n masc
+لام	n masc
+لامَن	n fem
+لامبَٹ	n masc
+لامو	n fem
+لاموجن	adj
+لان	n masc
+لانجا	n fem
+لانگ	n masc
+لنگری	n masc
+لار	n masc
+لارتَھلُو	vt
+لاری	n fem
+لارو	n masc
+لاسپلئی	n masc
+لاڜ	adj
+لاش	n fem
+لاشا	n fem
+لاشا	n fem
+لات	n fem
+لات	n fem
+لاترَن	n masc
+لاٹین	n masc
+لاوَن	n fem
+لازم	adj
+لاڙاچا	n masc
+لَد	n masc
+لدُو	n masc
+لفانگ	n masc
+لَگَھن	n masc
+لَگُھور	adj masc
+لگھُوراچا	n masc
+لَگُون	n masc
+لغڑ	adj
+لغتأ	n fem
+لَھُور	adj masc
+لَجِیل	adj
+لَژُو	vi
+لک	n masc
+لکڑا	n masc
+لَلو	adv
+لَم	n masc
+لَما	n masc
+لماک	n masc
+لَماٹ	n masc
+لَمَگُو	vt
+لَمسا	n fem
+لمسَئ	n masc
+لنڈَئ	adj
+لَنگَر	n masc
+لنگری	n fem
+لنگری	n masc
+لَپال	adj
+لَپو	n masc
+لرَئ	n masc
+لرَن	n masc
+لَرکژُو	vi
+لروُ	vt
+لَڑ	n masc
+لڑَم	n masc
+لڑبُس	adj
+لَڑے	n fem
+لڑسَپ	n fem
+لڑزان	n masc
+لشَوٷ	vt
+لشُو	vi
+لَتھام	n masc
+لَٹ	n masc
+لٹا	n masc
+لٹاکا	n fem
+لٹرپٹر	n masc
+لَٹی	n fem
+لٹکٹ	n masc
+لَوٷ	n fem
+لوٷ	adj
+لَوآنگا	n masc
+لوّکوُ	n masc
+لواچا	n masc
+لَوانگ	n fem
+لوَنگا	n fem
+لوَنگی	n fem
+لَخا	adv
+لخکر	n fem
+لأئ	n fem
+لألأ	interj
+لأر	n fem
+لأر	n fem
+لأشگأت	n fem
+لَیگیا	adj
+لیگھیر	adj fem
+لِیگِینأ	n fem
+لیگِینی	n fem
+لیہیل	n fem
+لیئ	n fem
+لیئ	n fem
+لیک	n fem
+لیکأٹ	adj
+لیکھُو	vt
+لیل	n fem
+لیلَوٷ	vt
+لیلو	n masc
+لیلوٹ	n masc
+لینٹر	n masc
+لینگ	adj fem
+لینگی	n fem
+لیپ	n fem
+لیر	n fem
+لیرے	adv
+لیریڑی	n fem
+لیرمُون	n masc
+لیرُو	vt
+لیرخان	n fem
+لیڜ	n fem
+لیٹ	n fem
+لیٹ	n fem
+لیوؤ	vi
+لیوؤ	adj fem
+لیوعید	n fem
+لیوال	adj
+لیونئی	adj
+لیوأ	n fem
+لیویئ	n fem
+لیویل	adj
+لیویل	n fem
+لیوُو	vt
+لیوُو	n masc
+لیئخ	adj
+لھاسُو	vt
+لھاسُو	vt
+لَھات	vt
+لھاٹ	n masc
+لَھدُو	vt
+لھَیل	adj
+لَھمَگُو	vt
+لھمَٷو	vt
+لھَمیل	adj
+لھمُو	vi
+لھنگوُ	vi
+لَھسُو	vi
+لَھتام	n fem
+لھتوُڑ	adj
+لھأٹ	n fem
+لھأٹ	n fem
+لِھے	n fem
+لھیباڑ	n masc
+لِھیگِل	n fem
+لِھیمأ	n fem
+لیھشیم	n fem
+لھیٹ	n masc
+لھیوؤ	vt
+لھویل	n fem
+لھومو	n masc
+لھوٷ	vt
+لھوٷ	vt
+لِباس	n masc
+لِگیل	n fem
+لِگُو	vi
+لحاظ	n masc
+لیجَن	n masc
+لِیژُو	vt
+لِک	n fem
+لِیکا	n fem
+لِن	adj
+لِناچا	n masc
+لیِندی	n fem
+لیندی	n fem
+لِنڈھا	n masc
+لِنڈھور	adj
+لینگ	n fem
+لیر	adv
+لیِرنگ	n masc
+لِڑ	adj fem
+لِیس	n fem
+لِیڜ	n fem
+لِیڜکأنگ	n fem
+لِت	n fem
+لِٹ	adj fem
+لِیو	vt
+لِیں	n fem
+لو	n masc
+لوفا	n masc
+لوگال	adj masc
+لوئی	n fem
+لوکاٹ	n masc
+لوکُرأٹ	n fem
+لول	n masc
+لولَئی	n masc
+لولُک	adj
+لون	n masc
+لون	n masc
+لونأ	n fem
+لونوؤ	vt
+لونگ	adj masc
+لونگالونگ	n masc
+لوپھا	n masc
+لوڑ	n masc
+لوڑال	adj
+لوڑوس	n masc
+لوڑوؤ	vt
+لوش	n masc
+لوشتی	n fem
+لوٹ	n masc
+لوٹا	n masc
+لوٹرگئی	n masc
+لوٹُھو	vt
+لوٹوٷ	vt
+لووال	adj
+لووو	n masc
+لوخوڑے	n fem
+لوظ	n masc
+لوڙا	n masc
+لُگُون	n masc
+لُغُو	vi
+لُوئی	n fem
+لُلُوپا	adj
+لُن	n masc
+لُونیل	adj
+لُونُو	vt
+لُنگیئ	n fem
+لُونگری	n fem
+لُنگوئی	n fem
+لُوپُٹا	n masc
+لُڑ	n masc
+لُوڑیئ	n fem
+لُوڑُو	vt
+لُٹ	adj masc
+لُٹ	n masc
+لُٹ	n masc
+لُوٹی	n fem
+ما	pp
+ما	n masc
+محبوبہ	n fem
+ماچ	n masc
+ماچس	n masc
+مادُوم	n fem
+ماحفوظ	adj
+ماگو	n masc
+مَہر	n masc
+ماہے	n fem
+ماجب	n masc
+ماجون	n masc
+ماکشِش	n masc
+ماکوُ	n masc
+مال	n fem
+مال	n masc
+مالدا	adj
+مالدار	adj masc
+مالدأری	n fem
+مالی	n fem
+مالِک	n masc
+مالٹے	n fem
+معلوم	adj
+معلومات	n masc
+مالوُش	n fem
+مام	n masc
+مام	n masc
+ماما	n masc
+مامیلہ	n fem
+مامیرا	n masc
+معمولی	adj
+مامورہ	adj
+مان	n masc
+مان	n fem
+مانکر	n masc
+مانکیال	n masc
+مانکو	n masc
+مارَکا	n masc
+مارَزا	n masc
+مارو	n masc
+ماڑ	n masc
+ماس	n masc
+ماسِل	adj
+ماسپلَتی	adj
+معصوم	n masc
+ماڜ	n masc
+ماڜتوب	n masc
+ماڜُو	vt
+ماش	n masc
+ماش	n masc
+ماشو	n fem
+ماشوڑ	n masc
+ماشُم	n masc
+ماشوقا	n fem
+مات	n masc
+ماتوہا	adj
+ماتوڑ	n masc
+ماوار	adv
+ماواری	n fem
+معذور	adj
+معذوری	n fem
+ماڙاب	n masc
+مَأت	adj
+میأتی	adj
+مَچے	n fem
+مداری	n masc
+مداریتوب	n masc
+مدد	n fem
+مددگار	n masc
+مَدَک	n masc
+مَدکی	n masc
+مدَم	adj
+مدین	n masc
+مَئیک	n masc
+مئیل	n masc
+مئیل	adj
+مفرور	n masc
+مگن	n masc
+مہاگیل	adj
+مہاک	n fem
+مَہان	n masc
+مَہے	n fem
+مَھین	adj
+مَہو	n masc
+مَئ	adj
+مئیچن	n masc
+مَئچے	n fem
+مَیئچھان	n masc
+مئیدہ	adj
+میدان	n masc
+میدانی	adj
+میلوٷ	vt
+مئیمہ	n fem
+مئیمو	n masc
+مئیرا	n masc
+مئیشان	n masc
+مئیزرے	n fem
+مجبور	adj
+مجبوری	n fem
+مَجمہ	n fem
+مکرو	adj
+مَل	n masc
+ملامت	n masc
+ملامَتیا	n masc
+ملان	n masc
+ملان	n masc
+ملانگ	n masc
+مَلک	n masc
+مَلَک	aux
+مَلَنے	n fem
+ملَڜُو	vt
+ملگَن	adj
+ملغلرے	n fem
+ملھام	n fem
+مَلھے	n masc
+مَلھیٹ	n masc
+مَلیشا	n masc
+ململ	n masc
+مَلخوزے	n fem
+مَمال	n masc
+مَمئ	n fem
+من	n masc
+مَن	adj
+مَن	n masc
+مَنا	n masc
+مَناک	n masc
+مندَل	n masc
+مندرسہ	n fem
+مَندُھو	vt
+مَنڈھی	n fem
+مَنڈھُو	vt
+مَنڈو	n masc
+مَنیل	adj
+مَنجلس	n fem
+منصوبہ	n fem
+منشا	n masc
+منُو	vi
+منظوری	n fem
+مَنگ	n masc
+منگری	n fem
+منگو	n masc
+مقصد	n masc
+مقصدی	adj
+مَران	n masc
+مَراٹ	adj
+مَرنڈأن	n masc
+مَرڑُو	vt
+مرض	n fem
+مَرَضی	adj
+مرچَکئ	n masc
+مَری	n fem
+مَریش	n masc
+مریض	adj
+مرجان	n masc
+مرکنڈی	n fem
+مَرکَتیر	n masc
+مروڑ	n masc
+مرضی	n fem
+مڑاٷ	adj
+مَڑئی	n masc
+مَڑَنئ	adj
+مڑَس	n masc
+مَڑَخوا	adj
+مڑدکی	n fem
+مَڑتوا	n masc
+مڑوان	n masc
+مڑوان	n masc
+مَسل	n masc
+مسئلہ	n masc
+مَسکان	n masc
+مستی	n fem
+مسور	n masc
+مسخرے	n fem
+مَڜان	n masc
+مشورہ	n fem
+مَتل	n masc
+مَتر	n masc
+مَتَرکُن	n masc
+مترنا	n masc
+مطلب	n fem
+مطلبی	adj
+مَٹ	n masc
+مٹاک	adj
+مَٹر	n masc
+مَٹی	n fem
+موجود	adj
+مَویسی	n masc
+مخیس	adj
+مخلوقات	n fem
+مخرور	adj
+مخشُول	adj
+مخشُولا	n masc
+مختور	adj
+مختورَن	adj
+مَیا	n masc
+مَیئن	adj
+مَیُو	vi
+مزہ	n fem
+مذہب	n fem
+مَزل	n masc
+مَزدُو	n masc
+مزیدار	adj
+مذکور	n masc
+مأ	pro
+مأل	n fem
+میألی	adj
+مأم	n fem
+مأمی	n fem
+مأڜ	n fem
+مأش	n fem
+مأشے	n fem
+مأشکُن	n masc
+مأشو	n masc
+مأٹ	n fem
+مے	n masc
+مے	pro
+میات	adj
+مئیدہ	n masc
+مَیدہ	adj
+میدھأن	n fem
+میگیڜے	n fem
+محنت	n fem
+محنتی	adj
+میک	n fem
+میل	adv
+میلاؤ	adj
+میلأ	n masc
+میلأڜ‌	n masc
+میلأڜتِوی	n fem
+میمأن	n fem
+میمِھالہ	adj
+مینِک	n masc
+مینِیکھال	n masc
+میون	n fem
+میراب	n masc
+مَیراب	n masc
+میربان	adj
+میربأنگی	n fem
+میڜی	n fem
+مَیش	n masc
+میوا	n masc
+میخ	n masc
+میخکَئ	n masc
+میز	n masc
+میزدی	n fem
+مھال	adj
+مھامُو	adv
+مھامُوٹ	adv
+مھدات	adj
+مھأ	pro
+مھأ	pro
+مھأدے	adv
+مھے	pro
+مھیدئیمُو	adv
+مھدیک	adj
+مھیدیشا	adv
+مھیر	interj
+مہرے	adv
+مہرئیمُو	adv
+مھیروُک	adj
+مھیڜ	n fem
+مَھیت	adv
+مِھی	pro
+مِھن	pro
+مھو	pro
+مھوئے	pro
+مھوئے	pro
+مُھن	pro
+می	pp
+میاں	n masc
+مِدی	adv
+مِیل	n masc
+مِیلانا	n fem
+مِلَوٷ	vt
+مِلیل	adj
+مِلیت	vi
+مِلُو	vi
+مِیم	n fem
+مِمبر	n masc
+مِمبر	n masc
+مِینہ	n masc
+مِنت	n fem
+مِنڈھال	n masc
+مِنڈَھلور	n masc
+مینجور	n masc
+مِینگ	n masc
+مینگور	n masc
+مِینگو	n masc
+مینگوٹ	n masc
+میراث	n fem
+میرات	adj
+میرأثی	n masc
+مِرگئ	n fem
+مِرگیا	n masc
+مِرِڑ	n fem
+مِثال	n masc
+مِسالا	n masc
+مِسالہ	n masc
+مِسالو	n masc
+مِسگر	n masc
+مِسین	n fem
+مِسری	n masc
+مِستری	n masc
+مِسواک	n masc
+مِڜِین	n fem
+مِشکو	n masc
+مِشتا	adj
+مِت	vi
+مِتکے	adv
+مِٹ	n fem
+مِٹ	n fem
+مِٹ	adj
+مِٹ	n fem
+مِٹھائ	n fem
+مِٹھیلتان	n masc
+مو	n masc
+موئینا	n fem
+موگئی	n masc
+موگو	n masc
+موگوبال	n masc
+مہلت	n fem
+مول	n masc
+مومن	n masc
+مونڈو	n masc
+موری	n fem
+مورید	n masc
+موڑا	n masc
+موڑی	n fem
+موسم	n masc
+موسمی	adj
+موسوپأت	adj
+مَڜوپأڜ	n fem
+موشئی	n fem
+موتھا	n masc
+موتھلأ	adv
+موٹر	n masc
+موٹأک	n fem
+موٷ	vi
+موٷ	vt
+موزی	n masc
+موزیگئی	n masc
+موزوُب	n masc
+مُو	n masc
+مُو	suffix
+مُوآ	adv
+مُوآبرَئ	interj
+معافی	n fem
+مُدا	n fem
+مُدام	adv
+مُدعا	n fem
+مُدَئ	n masc
+مُفُت	adj
+مُغلمار	n masc
+محبت	n fem
+مُژُو	vi
+مُکُر	n masc
+مُکری	adj fem
+مُکُرجن	n masc
+مُل	n masc
+مُلاچرگگ	n masc
+مُلاک	n masc
+ملاقات	n masc
+مُلاخیل	n masc
+مُلازہ	n masc
+ملازم	n masc
+مُلَوؤ	vt
+مُولیک	n masc
+مُلےزئی	n masc
+مُنارا	n masc
+مُنأفق	adj
+مُنأسب	adj
+مُندا	n masc
+مُندَئ	adj
+مُندُوری	n fem
+مُنجُورا	n masc
+مُنکُر	adj
+مُنصیفی	n fem
+مُنشی	n masc
+مُنگ	n masc
+مُوقع	n masc
+مقدمہ	n fem
+مُقیدا	adv
+مُردا	adj
+مُردارے	n fem
+مُرداسن	n fem
+مُسأفِر	n masc
+مُسأفِری	n fem
+مُصیبت	n fem
+مُسکا	n fem
+مُسُل	n masc
+مُسُلمان	n masc
+مُسرمان	n masc
+مُسرمأنی	n fem
+مُڜ	n masc
+مُوڜ	n masc
+مُڜکان	n fem
+مُوش	adv
+مُشِک	adj fem
+مُشِم	adj
+مُشکے	adv
+مُشمانی	n fem
+مُشُک	adj masc
+مُت	vi
+مُتاز	adj
+مُتأزی	n fem
+مُتکھا	adj masc
+مُٹ	n fem
+مُوٹ	suffix
+مُوٹھا	adv
+مُٹھیل	n fem
+مُوٹھِک	adj
+مُٹِھلی	n fem
+مُوٹی	n fem
+مُخ	n masc
+مخالف	adj
+مُخامُخ	adj
+مُخبِر	n masc
+مُخبِری	n fem
+مُخلُوق	n fem
+مُزَئ	n masc
+مُڙُو	vi
+نا	n fem
+نا	adj
+نابات	n masc
+ناداپ	n masc
+نادیدہ	adj
+آفت	n fem
+ناگ	n masc
+ناغہ	n masc
+ناحیہ	adv
+ناحقہ	adj
+ناجان	adj
+ناجیزہ	adj
+ناژور	adj
+ناژورتیا	n masc
+ناکام	n masc
+نالَت	adj
+نالی	n fem
+نام	n masc
+ناما	adj
+نامَن	n masc
+نامُو	vt
+نااوزگا	adj
+ناقابل	adj
+نآر	n fem
+نارَئ	n fem
+نارَوا	adj
+ناڑاما	adj
+ناساپا	adv
+ناسُور	n masc
+ناشینا	adj
+ناشیناختہ	adj
+ناشینئی	n fem
+ناشپاتئ	n masc
+نات	n fem
+ناڅاپا	adv
+ناٹ	n masc
+ناٹ	vi
+ناوات	n masc
+ناخبریئ	n fem
+ناخوالا	adv
+ناخوألی	n fem
+نایور	adj
+نایورتیا	n masc
+ناز	n masc
+نازبین	adj
+نازل	adj
+نہ	adv
+نآ	n fem
+نعت	n masc
+نَچا	n masc
+نَد	n fem
+نَگ	n masc
+نَئی	n masc
+نل	n masc
+نلکا	n masc
+نَم	adj masc
+نَم	n masc
+نَمے	n fem
+نَمگن	adj
+نَن	adj masc
+نقد	adv
+نقل	n fem
+نقلی	adj
+نر	adj
+نرم	adj
+نرے	n masc
+نریٹ	n masc
+نرگس	n masc
+نرجملوٹ	n masc
+نرجُملو	n masc
+نرتوب	n fem
+نڑأل	n masc
+نَڑُو	vi
+نسب	n fem
+نسَبی	n masc
+نسل	n fem
+نسوار	n masc
+نسوأری	adj
+نسوأری	adj
+نشہ	n fem
+نشَئ	adj
+نَشن	n masc
+نشیل	adj
+نشُو	vi
+نَتھَر	n masc
+نتیجا	n fem
+نتکول	n masc
+نَٹُو	vi
+نَوؤ	n masc
+نَوؤ	n masc
+نوکر	n masc
+نوکری	n fem
+نواب	n masc
+نَوَز	n masc
+نَخ	n fem
+نخرہ	n fem
+نخشہ	n masc
+نختر	n masc
+نَیُو	vt
+نَظَر	n masc
+نظر	n masc
+نذر	n masc
+نذربان	n masc
+نظری	adj
+نذرجڑی	n fem
+نظیر	n masc
+نأ	n fem
+نأ	adv
+نأچأری	n fem
+نأگوأل	n fem
+نأجأل	n masc
+نأژی	n fem
+نیأکأمِل	adj
+نأٷ	conj
+نأڜ	n fem
+نأشام	n masc
+نأڅأبی	adv
+نأیأل	n masc
+نیام	n fem
+نعمت	n fem
+نیدأ	n fem
+نیگ	n masc
+نیگی	n fem
+نیھان	n masc
+نیک	adj
+نَیک	n masc
+نَیم	adj fem
+نیمبُو	n masc
+نیمے	n fem
+نینڜأ	n fem
+نیر	n fem
+نصیأت	n fem
+نَسیا	n masc
+نیستی	n fem
+نیت	n fem
+نیتکیل	n fem
+نیٹا	n masc
+نیوأبی	n fem
+نیخانہ	n masc
+نیزاوار	n fem
+نھات	vt
+نَھد	n fem
+نَھوٷ	vt
+نھأژی	n fem
+نھیو	adv
+نھیت	n fem
+نھویر	adj
+نی	adv
+نِیدأ	n fem
+نِگاح	n masc
+نِگھالوُ	vt
+نِگھات	vi
+نِگھلُو	vt
+نِگھأت	vi
+نِک	n fem
+نِکاح	n masc
+نِکریز	n fem
+نِل	adj
+نِیل	n fem
+نیلا	n masc
+نِیلمَکئ	n masc
+نِلڜِت	adj
+نِیماز	n masc
+نِمَئل	adj
+نِمَوٷ	vt
+نیمأزی	adj
+نِمیل	adj
+نِمگڑ	adj
+نِمگڑے	adj
+نیمگڑتیا	n masc
+نِمیس	n fem
+نیمسرئ	n masc
+نِین	n fem
+نین	suffix
+نِینگ	adj
+نِشَوٷ	vt
+نِشیت	vi
+نِشُو	vi
+نِیز	n fem
+نِژَوٷ	vt
+نوک	n masc
+نوکتی	n fem
+نول	n masc
+نوم	num
+نوسئ	n masc
+نوسی	n fem
+نوز	n masc
+نُو	adv
+نُوگُلو	vt
+نُجوم	n masc
+نُجومی	n masc
+نُومُونیا	n fem
+نقصان	n masc
+نقصأنی	adj
+نور	n masc
+نورپرس	n masc
+نُڑُو	vi
+نُخو	vi
+و	conj
+او	prefix
+او	interj
+او	n fem
+اوبھاک	n fem
+اوبھام	adj
+اوبووول	n masc
+اوڇھان	adj
+اودِت	adj
+اوفاک	n fem
+اوگ	n fem
+اوگاڑ	adj
+اوگھا	n masc
+اوگما	n fem
+اوگوڜ	adj
+اوجھأل	n fem
+اوجِھیڙی	adj
+اولال	n masc
+اولِیک	adj
+اولومو	n masc
+اولون	adj masc
+اونو	n masc
+اونوش	adj masc
+اوپ	n fem
+اوپار	n masc
+اوپرا	adj
+اوپھاک	n fem
+اوپھۓ	n fem
+اوپھل	n masc
+اوپھنگل	adj
+اوران	n masc
+اورونو	n masc
+اوسمبال	adj
+اوسو	n masc
+اوسول	n masc
+اوستاز	n masc
+اوستأزأن	n fem
+اوستأزی	n fem
+اوسُک	adj
+اوڜ	n masc
+اوڜ	adj
+اوڜ	n masc
+اوڜ	adj
+اُوڜا	n masc
+اوڜَن	adj
+اوڜانگ	adj
+اوڜأئ	n fem
+اوڜوجأ	n fem
+اوش	n fem
+اوش	suffix
+اوشن	adj
+اوشو	adj masc
+اوتھان	n fem
+اوتھاپ	adj
+اووال	n masc
+اووولھأئ	n fem
+اووُوَل	n masc
+اوزگا	adj
+پابند	adj
+پابندی	n fem
+پاگ	adj
+پائی	n fem
+پاک	adj
+پاکیزہ	adj
+پاکیزگی	n fem
+پال	n masc
+پال	n masc
+پالَک	n masc
+پالنَا	n fem
+پالنگ	n masc
+پالَوان	n masc
+پالَوانی	n fem
+پالی	n masc
+پالی	n fem
+پالُو	vt
+پام	n fem
+پامڑاخیل	n masc
+پآن	n masc
+پان	n fem
+پانا	n masc
+پانسی	n fem
+پانزیب	n masc
+پاپڑا	n masc
+پاپو	n fem
+پاپڑا	n masc
+پآر	n masc
+پارَوٷ	vt
+پاڑ	n masc
+پاڑسوب	n masc
+پاڜ	n fem
+پاڜ	n masc
+پاش	n masc
+پاش	n masc
+پاشا	n masc
+پاشیل	adj
+پاتے	adj
+پاتکُوڑی	n fem
+پاٹک	n masc
+پاٷ	n masc
+پاٷ	n masc
+پاٷباندے	adj
+پاژا	n masc
+پاںئ	num
+پآ	n masc
+پاڑ	n masc
+پچَنڈھأ	adv
+پَچی	n fem
+پدا	adj
+پدَن	n masc
+پَدَندا	adj
+پَدبار	n fem
+پَدھل	adj
+پدی	adj
+پَدیۓ	adv
+پَدکے	adv
+پدکِیر	n fem
+پَدکیزأ	adv
+پَدما	n fem
+پَدراک	adj
+پَۓ	pro
+پئیت	adv
+پیَز	conj
+پَہیل	adj
+پہیم	n fem
+پَئ	n fem
+پَئ	adv
+پئیداد	n masc
+پَیئدائش	n fem
+پیداوار	n masc
+پیداوُخ	n fem
+پئکڑے	n masc
+پئیکو	n masc
+پئمَرُو	vt
+پیٷاند	n masc
+پئیخَل	n masc
+پئزار	n masc
+پَژا	n masc
+پَژَوٷ	vt
+پژیل	adj
+پَژُو	vi
+پکئ	n masc
+پکئ	n masc
+پَل	n masc
+پلآ	n masc
+پلا	n masc
+پلآن	n masc
+پلان	n masc
+پلانڇو	n masc
+پلانکئ	adj
+پلآر	n fem
+پلار	n fem
+پلاس	n masc
+پَلَگوٷ	vt
+پَلَگُو	vi
+پَلنُو	vt
+پَلَڑابَژُو	vi
+پَلڑُو	vt
+پَلڑُو	vt
+پلَس	n fem
+پَلسوٷ	vt
+پلی	n fem
+پلیت	adj
+پلیتا	n masc
+پَلو	n masc
+پلو	n masc
+پلُول	n masc
+پلوَشا	n fem
+پَمنکے	n fem
+پنا	adj
+پناپَئ	adv
+پَناپَن	adv
+پَناشئ	n fem
+پناغال	n masc
+پنڈوس	n masc
+پنیل	n fem
+پنجے	n masc
+پنجیٹ	n masc
+پَنجیگرام	n masc
+پنجیرا	n masc
+پَنکا	n masc
+پَقیر	n masc
+پَر	n fem
+پرا	n masc
+پراک	n masc
+پراٹے	n fem
+پَراویز	n masc
+پَرَش	n masc
+پرچا	n masc
+پرچنڈی	n fem
+پرچی	n fem
+پرچون	adj
+پرچونی	adv
+پردیس	n masc
+پرے	n fem
+پَرے	pp
+پرےرے	n fem
+پریز	n masc
+پریزگار	adj
+پریزگأری	n fem
+پَرغز	n fem
+پرہاڑ	n fem
+پری	n fem
+پرکٹئ	n masc
+پرلاپسی	adj
+پروت	adj masc
+پروا	n fem
+پرورش	n fem
+پروردگار	n masc
+پَرخا	n fem
+پڑاپڑ	adj
+پڑاٷ	n masc
+پڑَئ	n masc
+پَڑَقا	n fem
+پڑدا	n masc
+پڑی	n fem
+پڑُونے	n fem
+پَساد	n masc
+پَسادی	adj
+پسینا	adj
+پسماندہ	adj
+پَسواڑ	n masc
+پڜال	n fem
+پَڜلُو	vi
+پَڜیاٹ	adj
+پڜیوٷ	vt
+پَڜَیُو	vi
+پَش	n fem
+پَشم	n masc
+پَشم	n masc
+پَشن	adj
+پَشوٷ	vt
+پَشیکال	n masc
+پشِم	n masc
+پشیمانی	n fem
+پشیمدار	adj
+پشکالئی	n masc
+پَشُو	vt
+پتا	n fem
+پتا	n fem
+پترکالا	n masc
+پتھا	n masc
+پتھانگ	n masc
+پتی	n fem
+پتیلا	n fem
+پَتکے	adv
+پَتما	n fem
+پتما	n masc
+پتنوس	n masc
+پتراک	adj
+پترئ	n masc
+پَترُو	n masc
+پٹا	n fem
+پٹاقدار	n masc
+پٹھان	n masc
+پٹھل	n masc
+پٹی	n fem
+پٹکَئی	n masc
+پٹکئ	n masc
+پَٹوس	n masc
+پَخ	n fem
+پخا	adj
+پخلئی	n fem
+پخنی	n fem
+پَیَن	n masc
+پیَوؤ	vt
+پَییل	adj
+پَیُو	vi
+پَیوک	adj
+پڙَوٷ	vt
+پأ	interj
+پأگ	adj fem
+پأل	n fem
+پیأن	n fem
+پأنیل	adj
+پأنُو	vi
+پأڑ	n fem
+پیأش	adv
+پیأشا	n fem
+پیأخلے	n fem
+پیأخے	n fem
+پیأخے	n fem
+پأزی	n masc
+پیادہ	adj
+پیالا	n masc
+پیاز	n masc
+پیچ	n masc
+پیچی	adj
+پیچیدا	adj
+پَیدَھیر	adv
+پیگو	n masc
+پیغامبر	n masc
+پیغامبری	n fem
+پیدائشی	adj
+پیلأک	n fem
+پیلأل	n fem
+پیلیس	n masc
+پیلین	n fem
+پیلینگ	n fem
+پیلینگی	n fem
+پیلو	vi
+پیم	adj
+پین	n masc
+پین	n fem
+پینڈی	n fem
+پینیئی	n fem
+پینیل	n fem
+پینجأر	n fem
+پینجُو	vt
+پینگیلی	n fem
+پیول	n masc
+پیوس	n masc
+پیر	n masc
+پیرا	n masc
+پیرانَئ	n masc
+پیرانی	adj fem
+پیرڜات	adj masc
+پیرُو	vi
+پیرزونہ	n masc
+پیڑ	n masc
+پیڑا	n masc
+پیڑا	n masc
+پیڑی	n fem
+پیس	n fem
+پیڜ	n fem
+پیڜیل	n fem
+پیڜین	n masc
+پیڜُو	vt
+پَیش	adv
+پیش	n masc
+پیشی	n fem
+پیشِم	adj
+پیٹ	n fem
+پیٹھأئ	n fem
+پیٹھینی	n fem
+پیٹُھو	vt
+پیٹی	n fem
+پیو	vt
+پیٷ	vt
+پیٷ	vt
+پیخ	n masc
+پیخا	n masc
+پیخے	n fem
+پیزوان	n masc
+پیڙے	n fem
+پیںش	num
+پھا	n fem
+پھادوُ	vi
+پھاک	n fem
+پھاک	n fem
+پھال	n masc
+پھالُو	vt
+پھام	n fem
+پھان	n fem
+پھانگ	n masc
+پھانگیل	adj
+پھاپ	n fem
+پھاپ	n masc
+پھارو	n fem
+پھاڜ	n masc
+پھات	n fem
+پھدوک	n masc
+پَھۓ	n fem
+پھَگان	n fem
+پھگُو	vt
+پھل	n masc
+پَھلے	n masc
+پھلُو	vi
+پَھن	adj
+پَھر	n masc
+پھَرگُو	vi
+پَھرَوٷ	vt
+پھرپھرے	n fem
+پَھرپَھرُو	vi
+پھَڑوُ	vt
+پَھتنگا	n fem
+پھتنگُو	vi
+پھزان	n masc
+پھأبے	n fem
+پھأبو	n masc
+پھیأک	n fem
+پھیأن	adj
+پھأپ	n fem
+پھأوے	n fem
+پھأوؤ	n masc
+پھیگین	n fem
+پھیل	n fem
+پَھیم	adj
+پھین	n fem
+پَھیر	adv
+پِھی	n masc
+پِھگر	n masc
+پِھگریل	adj
+پِھگوٷ	vt
+پِھگُو	vi
+پِھلِک	n fem
+پِھندے	n fem
+پِھندے	n fem
+پِھندے	n fem
+پِھندو	n masc
+پِھنگ	n fem
+پِھنگٹار	adj masc
+پھِرینگاٹ	n masc
+پِھرینگوٷ	vt
+پھِرینگُو	vi
+پِھس	n fem
+پِھسکأ	n fem
+پِھڜ	n fem
+پِھش	adj fem
+پِھت	n fem
+پِھتیگین	n fem
+پِھتپِھدَوٷ	vt
+پھِٹ	n fem
+پِھٹ	n fem
+پِھٹیویل	n fem
+پِھزِین	n fem
+پِھزمنڈھوک	n masc
+پِھڙَوٷ	vt
+پِھڙِیک	n fem
+پِھڙیت	vi
+پِھڙُو	vi
+پھو	n masc
+پھوگیئ	n fem
+پھوج	n masc
+پھوجی	n masc
+پھولون	n masc
+پھونڈوک	n masc
+پھورآٹ	adj
+پھورَوؤ	vt
+پھوریل	adj
+پھورُو	vi
+پھوس	adj
+پھوت	n masc
+پھوٷ	vi
+پُھدُوگُو	vi
+پُھدُوڜکأ	n fem
+پُھوگین	n fem
+پُھوگُو	vi
+پُھوک	n fem
+پُھلیل	n masc
+پُھمبَوؤ	vt
+پُھومُو	vi
+پُھن	n masc
+پُھنڈُو	vi
+پُھنگ	n masc
+پُھرُون	n masc
+پھُرونُو	vi
+پُھرُوٹ	n masc
+پُھڜ	n masc
+پُھڜکی	n fem
+پُھش	adj masc
+پُھتوُڜ	n masc
+پُھٹ	n masc
+پُھٹبیل	n fem
+پُھوٹُو	n masc
+پُھزُو	n masc
+پُھوزُو	vi
+پھُزوآٹ	adj
+پُھڙُو	vt
+پچھأڑی	n fem
+پِژَؤ	vt
+پِژُو	vt
+پِیک	n masc
+پِیکوڑے	n fem
+پِیموڜ	n masc
+پِن	n fem
+پِنَل	adj
+پِیر	n masc
+پیر	n masc
+پیرباوا	n masc
+پیردیرا	n masc
+پِیرین	n fem
+پِیری	n fem
+پِرپان	n masc
+پِڑ	adj
+پِیس	n fem
+پِش	n fem
+پِشاڑے	n fem
+پِشل	adj masc
+پِشل	n masc
+پِشالُو	vi
+پِشَوٷ	vt
+پِشأنگ	n fem
+پِیشے	n fem
+پِشے	interj
+پِشیل	adj fem
+پِشیت	vi
+پِشکش	n masc
+پِشکأری	n fem
+پِشو	interj
+پشونگڑئی	n masc
+پِشترے	n fem
+پِشُو	vi
+پِت	n fem
+پِیتہ	n masc
+پِتاؤ	n masc
+پِتَئ	n masc
+پیتل	n masc
+پِٹ	n fem
+پیویرین	n fem
+پیڙأن	n fem
+پِیڙِی	n masc
+پو	n masc
+پودینہ	n fem
+پوئل	adj
+پوگونو	vt
+پوہا	n fem
+پوجیو	vt
+پوکھول	n masc
+پول	n masc
+پولاٷ	n masc
+پولو	n masc
+پومیل	adj
+پوموڜُو	vt
+پون	n masc
+پونڈوس	n masc
+پُونکأ	n fem
+پونو	n masc
+پور	n masc
+پورأن	n masc
+پورے	adv
+پورے	pp
+پوڑ	n masc
+پوڑَئ	n masc
+پوڑی	n fem
+پوڜول	n masc
+پوت	n masc
+پوٷ	vt
+پوٷ	vt
+پووو	n masc
+پووولو	vi
+پوٷڑوٷ	vt
+پوٷڑُو	vi
+پوووشُو	vi
+پوخ	adj masc
+پوخولا	n fem
+پوخوندَئ	n masc
+پختو	n fem
+پویو	n masc
+پویُو	vt
+پُو	vi
+پُو	vt
+پُوچا	n masc
+پُوئی	n fem
+پُکانے	n fem
+پُلا	n fem
+پُلَئ	n masc
+پُولُوس	n masc
+پُونے	n masc
+پُنیل	adj
+پُونیٹ	n masc
+پُنی	n fem
+پُنی	adj
+پُنجُو	vi
+پُونُو	vt
+پُر	adj
+پورا	adj
+پُران	adj
+پُرزہ	n fem
+پُڑانا	n fem
+پُڜ	n masc
+پُش	n masc
+پُشمال	n masc
+پُشمالی	n fem
+پُشُو	n masc
+پُشو	n masc
+پُشو	n masc
+پُشُوشا	adv
+پُوزی	n fem
+قابل	adj
+قافلہ	n fem
+قاغذ	n masc
+قالب	n masc
+قالین	n masc
+قانون	n masc
+قانونی	adj
+قاپ	adj
+قار	n masc
+قارآنو	vt
+قارَندوکے	n fem
+قاریل	adj
+قاش	n masc
+قاشُوقا	n fem
+قات	n masc
+قَبر	n masc
+قبَزَؤ	vt
+قبیدَس	adv
+قَبیل	n fem
+قبرستان	n masc
+قبول	adj
+قبولُو	vt
+قبضہ	n masc
+قچر	n masc
+قد	n masc
+قدم	n masc
+قدَر	n fem
+قدَروٷ	vt
+قجیر	adj
+قَلعہ	n masc
+قلانگ	n masc
+قلارا	adv
+قلاریئ	n fem
+قلم	n masc
+قلندرا	n masc
+قلنگچی	n masc
+قلی	n fem
+ققوٷ	vi
+قرَن	n masc
+قرض	n masc
+قرضدا	n masc
+قَرقرا	n masc
+قرقرا	n masc
+قڑَتُو	adj
+قصہ	n fem
+قصاب	n masc
+قصب	n fem
+قصور	n masc
+قشقار	n masc
+قشقارَئ	n masc
+قشقاری	n fem
+قَط	n masc
+قطار	n masc
+قتَلان	idiom
+قوَر	n masc
+قیامت	n masc
+قیاسوؤ	vt
+قیدی	n masc
+قرِنجا	n fem
+قِرنجوُ	vi
+قِریزگن	adj
+قِصا	n fem
+قسم	n masc
+قِسماقِسم	adj
+قول	n masc
+قولا	n masc
+قولانگ	n masc
+قوم	n masc
+قومی	adj
+قوران	n masc
+قورانچی	adj
+قورأنی	adj
+قدرت	n fem
+قدرتی	adj
+قربأنی	n fem
+قُتِنگ	n fem
+قُتینگار	adj
+راداری	n fem
+راحتہ	n fem
+رحمت	n fem
+راج	n masc
+راجا	n masc
+راجگنہ	n fem
+راجواڑہ	n masc
+رامدے	adv
+رامیٹ	n fem
+راشا	n fem
+راشپیل	n masc
+راز	n masc
+راضی	adj
+رب	n masc
+رباب	n masc
+رَبَڑ	n masc
+رَدکوٷ	vt
+ردا	n masc
+رغَدَن	n masc
+رغَیئ	adj
+رغبت	n fem
+رغُو	vi
+رحم	n masc
+رھیل	n fem
+رئیس	n masc
+رکعت	n fem
+رکوَئ	n masc
+رکوع	n masc
+رمبَئ	n masc
+رَنیئی	n fem
+رندُو	n masc
+رنڈی	n fem
+رنزوُر	adj
+رنڑاگئی	n fem
+رنڑیئی	n fem
+رَپل	n masc
+رپُو	vi
+رقَم	n masc
+رسَم	n masc
+رسی	n fem
+رسید	n masc
+رسول	n masc
+رَشہ	n fem
+رٹَلے	adj
+رَٹو	vt
+روا	adj
+رواج	n masc
+روان	adj
+رَوَڑ	n masc
+رَوڑَٷ	vt
+روَڑے	n fem
+رَخ	n masc
+رضا	n fem
+رضابَن	adj
+رذیل	adj
+ریڈُو	n masc
+ریگمال	n masc
+ریڑا	n masc
+ریوانہ	adj
+ریوانگی	n fem
+ریزالہ	adj
+ریزمریز	adj
+روھڑ	n masc
+رِیشتِینی	n fem
+رشوت	n fem
+رِیخ	n fem
+رِخِیئ	n fem
+رِزیق	n fem
+روغ	adj
+روغہ	n fem
+روحا	n fem
+روخانہ	adj
+روضہ	n masc
+روزانہ	adv
+روزی	n fem
+رُوئیمال	n fem
+رُن	adj
+رُونَوٷ	vt
+رخصتی	n fem
+رُوزے	n masc
+سا	adj
+سا	n masc
+ثابت	adj
+سادہ	adj
+سادگی	n fem
+ساڈوب	adj
+ساڈوبی	n fem
+ساک	adj
+سآل	n masc
+سال	n masc
+سالنڈئ	n fem
+سام	n masc
+سامان	n masc
+سان	n masc
+سانڈُو	n masc
+صاپ	adj
+صارا	n masc
+سات	num
+ساتال	n masc
+ساتُو	vt
+ساوون	n fem
+ساوون	n masc
+ساز	n masc
+سآ	n fem
+ساعت	n masc
+سَب	n masc
+سبجنگی	n fem
+ثبوت	n masc
+سبزی	n fem
+سَدھان	n masc
+صفا	adj
+صفاسُترا	adj
+صفائی	n fem
+سفر	n masc
+صحیح	adj
+سَہُو	n masc
+سَئ	n fem
+سَکا	n masc
+سکاویلی	n fem
+صلا	n masc
+سلاجیت	n masc
+سلام	n masc
+سلامت	interj
+سلامت	adj
+سلامَتگی	n fem
+سلامَتگی	n fem
+سلامی	n fem
+سَلی	n fem
+سَلین	n fem
+سَلول	n masc
+سَم	adj
+سَمہ	n masc
+سَمالُو	vt
+سَمان	adv
+سَمانے	adv
+سَمئی	n fem
+سمندر	n masc
+سمندری	adj
+سَمر	n masc
+سَمَڑأ	n masc
+سمَڑے	n masc
+سَمڑُو	vt
+سَمَٹیر	n masc
+سَمأٹ	adj
+سمبال	adj
+سمبالَخ	n masc
+سمبالیئ	n fem
+سمدستی	adv
+سمسارہ	n fem
+سَنَدار	adj
+سَندھان	n masc
+سَنُو	vt
+سَرا	adv
+سَرا	n fem
+سَران	n masc
+سرَڑُو	vt
+سردار	n masc
+سرگردان	adj
+سَری	n fem
+سرکار	n fem
+سرکأری	adj
+سرمایہ	n fem
+سَرمدد	n masc
+سرنامہ	n fem
+سرود	n masc
+سرپاڑ	n masc
+سرپوخ	adj
+سرسام	n fem
+سرسایہ	n fem
+سروازا	adj
+سَروے	n fem
+سَت	n fem
+سَتاش	num
+سَتاشم	adj
+سَتم	adj
+سَتر	n masc
+سترمَن	adj
+سَٹل	adj
+سَٷدا	n masc
+سَودا	n masc
+سَودیئ	adj
+سوا	suffix
+سَوَخ	n masc
+سووٷ	vt
+سَخ	adj
+سَخ	adj
+سَخا	n masc
+سخاؤ	n masc
+سخی	adj
+سختی	n fem
+سَخُود	n masc
+سزا	n fem
+صابأخ	n masc
+سأدلی	n fem
+سألی	n fem
+سألِم	adj
+سأس	n masc
+سأسبنأ	adv
+سأت	n masc
+سأت	n masc
+سأویدی	n fem
+سأزال	adj
+سے	pro
+سے	n fem
+سۓ	adj fem
+سے	n masc
+صیب	n masc
+سیدیر	n fem
+سیدگیئ	n fem
+سیدوباوا	n masc
+سیکڑا	n masc
+سَیل	n fem
+سیل	n fem
+سَیلیپُر	n masc
+سیلگو	n masc
+سَیم	conj
+سیمام	n masc
+سیمأٹ	adj
+سیمے	n fem
+سَین	n masc
+سَین	n masc
+سینیئ	n fem
+سینگِیژُو	vt
+سیرأن	n fem
+سیرأن	n fem
+سیرینیر	n fem
+سَیری	n fem
+سیت	pp
+سیت	n fem
+سَیٹ	adj
+سیو	vt
+سیوا	adj
+سی	pp
+سی	n fem
+سی	n fem
+سِی	n fem
+سِی	n fem
+سی	n fem
+سیال	adj
+سِیبَژین	n fem
+سِیدا	adj
+سِدَئ	n fem
+صِدق	n fem
+صفت	n fem
+سِگل	n masc
+سیگَلات	n masc
+سِگلین	adj
+سِگھِن	n fem
+سِگِھنو	n masc
+صِحت	n fem
+سِجدہ	n masc
+سِیکا	n fem
+سِکھِر	n fem
+سِلور	n masc
+سِم	n masc
+سِیم	n fem
+سِیم	n fem
+سیمَٹ	n masc
+سِیمَین	n fem
+سِمیگل	n masc
+سِمکو	n masc
+سِملیپھأک	n fem
+سِیمُو	vi
+سیمُو	vi
+سِینکڑی	n fem
+سِینکیأن	n fem
+سِنکو	n masc
+سینگلوُو	n masc
+سِپائی	n masc
+سِپار	n masc
+سپرسالار	n masc
+سیقا	adj
+شِراجَڑی	n fem
+سِرِیکاٹ	n masc
+سِرِیٹے	n fem
+سِتار	n masc
+ستارچی	n masc
+سِویدَوؤ	vt
+سیزدا	n masc
+سیزین	n fem
+سوال	n fem
+سوآن	n masc
+سوبَن	n masc
+سوبت	n fem
+سوبھوٷ	vt
+سوچ	n masc
+سوداگر	n masc
+سوئیں	n fem
+صوفی	adj
+سوگھأن	n fem
+سوغولے	adj
+سوغونوؤ	vt
+سوہیبا	adv
+سوکا	adj
+سولول	n masc
+سور	adj
+سور	n masc
+سور	n masc
+سورے	n masc
+سورلی	n fem
+سَوت	n fem
+سووو	n masc
+سووَب	n masc
+سوخ	n masc
+صوبیدار	n masc
+سُچا	adj
+سُود	n masc
+سُدوم	n masc
+سُودخور	n masc
+سُگھا	adj masc
+سُوجُھون	n masc
+سُک	n masc
+سُلاخ	n masc
+سُلَوؤ	vt
+سُلیمینِک	n masc
+سُلُو	vi
+سُولوک	n masc
+سُم	n fem
+سُمأدا	adv
+سُمبُو	n masc
+سُون	n fem
+سُون	pp
+سُنَت	n fem
+سُنَت	n fem
+صُندُق	n masc
+سُپُور	n masc
+سُرامُخ	n masc
+سُورَئ	adj
+سُورَئ	n masc
+سُورت	n fem
+سُرأ	n fem
+سُرباٹ	n masc
+سورین	n fem
+سُورلنڈئ	n masc
+سُرمہ	n masc
+سُرنی	n fem
+سُروبتے	adv
+سُروبُو	vt
+سُرنگ	n masc
+سُرنگ	n masc
+سُرُوٹو	n masc
+سُس	adj
+سُستی	n fem
+سُوش	adj
+سُتولی	n fem
+ثواب	n masc
+سُووار	n masc
+سُووَن	adj
+سُووَنأ	adv
+ثوُوأبی	adj
+سوات	n masc
+سواتئ	n masc
+ڜا	n masc
+ڜاگھین	n fem
+ڜاکونڈھأ	adv
+ڜانگ	n masc
+ڜاپھیرأ	n fem
+ڜاڜ	adj masc
+ڜاڜ	n masc
+ڜاشُل	n fem
+ڜات	vi
+ڜگوٷ	vt
+ڜَئ	n masc
+ڜژَوؤ	vt
+ڜَژُو	vt
+ڜَژُو	vt
+ڜنَگُو	vi
+ڜنکو	n masc
+ڜَتا	adj
+ڜے	n fem
+ڜیأل	n fem
+ڜیأل	n masc
+ڜیگأ	n fem
+ڜیگیل	n fem
+ڜیئشم	adj
+ڜینأ	n fem
+ڜینأک	n masc
+ڜیڜ	n fem
+ڜیش	num
+ڜیتا	adj
+ڜِیم	n fem
+ڜِیمیل	n fem
+ڜِیمُو	vt
+ڜِینگ	n masc
+ڜِنگراٹ	adj masc
+ڜِڜ	adj fem
+ڜِڜ	n masc
+ڜِت	n masc
+ڜِت	n masc
+ڜو	n masc
+ڜو	n masc
+ڜو	num
+ڜو	n masc
+ڜون	adj masc
+ڜونگَوٷ	vi
+ڜوروٹ	n masc
+ڜوڙیل	adj
+ڜوڙُو	vt
+ڜُنجُو	n masc
+ڜُونوگا	n masc
+ڜُوڜ	adj masc
+ڜُڜ	n masc
+ڜُوںئےدیو	vi
+ڜُوںئ	n fem
+شا	n masc
+شا	suffix
+شابشے	interj
+شادو	n fem
+شادوت	n fem
+شاگڑ	n masc
+شاگڑدی	n fem
+شاہر	n masc
+شاک	n masc
+شال	n masc
+شآم	n fem
+شامِلات	n masc
+شامُدام	adv
+شان	adj
+شان	n masc
+شانا	n masc
+شَانُور	n masc
+شانگ	n masc
+شانگ	n masc
+شاپتے	adv
+شاقبزر	n masc
+شاشُلُوک	n masc
+شات	conj
+شاخیل	adj
+شَبال	n masc
+شڈَل	adj
+شَڈل	n masc
+شڈل	adj
+شگام	n masc
+شگامدان	n fem
+شگئ	n fem
+شغالَئ	adj
+شَہُو	n masc
+شجرہ	n fem
+شک	n fem
+شکل	n masc
+شَکری	n fem
+شکی	adj
+شَل	adj
+شَل	n masc
+شلا	n masc
+شَلابیڑی	adj
+شَلابوڑی	n fem
+شلاک	n masc
+شَلَدَر	n masc
+شلکھیر	n fem
+شَلخئَی	n masc
+شَم	n masc
+شمَلا	n masc
+شمَلے	n fem
+شمَٹئی	n masc
+شمیز	n masc
+شَمکَلَئی	n masc
+شمکور	adj
+شناس	n masc
+شناختی	adj
+شنڈَقُل	n masc
+شنڈُو	vt
+شَر	n fem
+شرع	n fem
+شراٹ	n masc
+شربوُ	vt
+شَرَم	n fem
+شرَنگاٹ	n masc
+شَرنیگَل	n masc
+شرَنگُو	vi
+شرَٹوؤ	vt
+شربت	n masc
+شَریش	n masc
+شری	adj
+شرتے	adv
+شڑ	n fem
+شَڑ	adj
+شَڑ	n masc
+شَڑ	n masc
+شڑا	n fem
+شَڑَل	adj
+شڑی	n fem
+شڑی	n fem
+شڑُونکے	adj
+شَشوخیل	n masc
+شَت	n masc
+شَٹی	n fem
+شوال	n masc
+شأ	n fem
+شأ	n fem
+شأژو	n masc
+شأک	n fem
+شأل	n fem
+شألمی	n fem
+شأم	n fem
+شأمیرو	n masc
+شأمیٹو	n masc
+شأن	adj fem
+شے	n masc
+شید	n masc
+شیدی	n masc
+شیگی	n fem
+شیگِیژُو	vi
+شیگیرأٹ	n fem
+شیئ	n masc
+شیل	adj
+شیلین	n fem
+شیمَیل	adj
+شین	n masc
+شَین	n fem
+شین	n masc
+شین	n masc
+شیریکَت	n fem
+شیرمینگی	n fem
+شیڑیک	n fem
+شیڑیک	n fem
+شیت	n masc
+شیتا	adj
+شیطان	n masc
+شیوؤ	vt
+شیوأل	n fem
+شیخ	n masc
+شی	suffix
+شِیعہ	n masc
+شِد	n masc
+شیدَل	adj masc
+شیدَل	n masc
+شیدلاپ	n masc
+شِدَوؤ	vt
+شِدلی	n fem
+شِدکان	n masc
+شِگھان	n masc
+شِژان	n masc
+شِیژے	adj fem
+شِیژو	n masc
+شِیژو	adj masc
+شیژوخیل	n masc
+شِژُو	vi
+شِل	n masc
+شِل	n fem
+شِلوو	vi
+شِلی	adj
+شِلی	n masc
+شِن	adj fem
+شینال	n masc
+شِینیل	n fem
+شینگُو	vi
+شِیر	n fem
+شیرمیلأڜ	n masc
+شِیرمیلأڜ	n masc
+شیروش	adj
+شِش	n fem
+شیش	n fem
+شیشہ	n fem
+شِیشَر	n masc
+شیشکال	adj
+شِشو	n masc
+شِیشو	adj masc
+شِت	n fem
+شِت	n fem
+شِت	vi
+شِیُو	vi
+شو	n masc
+شوب	n masc
+شوبِیراٹ	n masc
+شوچھأل	n fem
+شودا	adj
+شوگ	n masc
+شوگین	n fem
+شوگول	n masc
+شوگُو	n masc
+شوگُوراٹ	n masc
+شوغلا	n masc
+شوغودور	n masc
+شغوتور	n masc
+شوک	n masc
+شوک	adj
+شوکال	n masc
+شول	n fem
+شولے	n fem
+شولگرا	n fem
+شولو	n masc
+شوم	n fem
+شومیل	adj
+شون	n fem
+شونڈھوک	n masc
+شونڈھوک	adj
+شوق	n masc
+شوقی	adj
+شور	n masc
+شوربن	n masc
+شورُوٹ	n masc
+شوڑ	n masc
+شوڑو	n masc
+شوڑوک	n masc
+شوشا	n masc
+شوتا	n masc
+شوتل	n masc
+شوتی	n fem
+شُوؤ	vt
+شوؤ	vt
+شووأل	n fem
+شوألوأل	n fem
+شووتَل	n masc
+شُو	n fem
+شُو	aux
+شُب	n masc
+شُوگا	n masc
+شُوگار	n fem
+شُوگیئ	n fem
+شُوگیل	adj
+شُگمُڜ	n masc
+شُگُو	vt
+شُگُران	n masc
+شُژُو	vi
+شُکا	n fem
+شُکُر	n masc
+شُکرنِھگلُو	vt
+شُل	n fem
+شُلو	vt
+شُلوک	n masc
+شُلُن	n masc
+شُم	adj
+شُمُڜ	n masc
+شُن	adj masc
+شُون	n masc
+شُنگری	n fem
+شُرمُخ	n masc
+شُورُوُٹو	vi
+شڑُوکُو	n masc
+شُژَؤ	vt
+شُوژیل	adj
+شُوں	n masc
+شُوں	n masc
+تا	n masc
+تا	n masc
+تابعداری	n fem
+تابعدار	adj
+تابوت	n masc
+تاج	n masc
+تاک	n fem
+تاکان	n masc
+تال	n masc
+تالا	n masc
+تالاب	n masc
+تالابِڑنگ	n fem
+تالان	n masc
+طالاق	n masc
+تالَئ	n masc
+تالیئ	adj
+تعلیم	n masc
+تالوخ	n masc
+تام	adj
+تامبا	n masc
+تامبا	n masc
+تامبڑئ	n masc
+تامڑَئ	n masc
+تآن	n fem
+تان	n masc
+تان	n masc
+تانو	n masc
+تانگ	adj
+طاق	adj
+طاقت	n fem
+طاقتدا	adj
+تحقیق	n masc
+تار	n masc
+تاریخ	n masc
+تارکول	n masc
+تحصیل	n masc
+تحصیلدار	n masc
+تاثیر	n masc
+تاڜ	n masc
+تاڜ	n masc
+تاش	n masc
+تات	adj
+تاترین	n fem
+تاٷ	n fem
+تاٷ	n fem
+تاوان	n masc
+تاوأنی	adj
+تاوین	n masc
+تاخ	n masc
+تازہ	adj
+تباہ	adj
+طبابت	n fem
+تبخ	n fem
+تَبیل	adj
+طبیب	n masc
+طبیب	n masc
+تبلیغ	n masc
+تبلیغَئ	n masc
+تداچا	n masc
+تفصیل	n masc
+تفسیر	n masc
+تہجّد	n masc
+تجربہ	n fem
+تَکل	n fem
+تکلیف	n masc
+تکڑا	adj
+تکڑاوالے	n fem
+تل	n masc
+تَل	n masc
+تَل	n masc
+تل	n masc
+طلب	n fem
+طلبگار	adj
+تَلئی	n masc
+تَلئی	n masc
+تَلئی	n masc
+تلَن	n masc
+تلوٹ	n masc
+تَلوَسا	n fem
+طم	n masc
+طمَع	adj
+تماچا	n masc
+تماکوُ	n masc
+تمام	adj
+تماشہ	n fem
+تماشیئ	n masc
+تماشگِیر	n masc
+تمبل	n masc
+تمبُو	n masc
+تمیز	n fem
+تن	n masc
+تنا	n masc
+تناؤ	n masc
+تنازگو	n masc
+تَنَکار	n masc
+تَنستا	n masc
+تندَئ	n masc
+تندر	n masc
+تندَرئی	adj
+تندی	adj
+تنی	adj
+تنی	n fem
+تنی	adj
+تنکَئ	adj
+تنول	n masc
+تنُوک	adj masc
+تنخواہ	n masc
+تنگدستی	n fem
+تنگی	n fem
+تپ	n fem
+تَپیل	adj
+تَپوس	n masc
+تقدیر	n masc
+تقدیری	adv
+تقسیم	n masc
+تقصیر	n masc
+ترائ	n fem
+ترال	n masc
+تراپ	n fem
+تراڑ	n masc
+تَرکوٷ	vt
+ترَن	n fem
+ترَن	adj
+ترَپأ	n fem
+ترَپُو	vt
+ترقی	n fem
+ترَڑوٷ	vt
+ترسوٷ	vt
+ترأ	n fem
+تربُور	n masc
+تربوری	n fem
+ترجمہ	n fem
+ترکان	n masc
+ترکنا	n masc
+ترکَڑی	n fem
+ترکأنی	n fem
+ترکأری	n fem
+ترمِیرا	n masc
+تروڑ	n masc
+ترپال	n masc
+ترترأ	adj
+تَرُو	vi
+تڑ	n fem
+تڑم	adj
+تڑی	n fem
+تڑکا	n masc
+تڑوُن	n masc
+تسلی	n fem
+تسمہ	n masc
+تَڜُو	vt
+تش	adj
+تَت	interj
+تتے	interj
+تَوکل	n fem
+توکلی	adj
+تَوئ	n masc
+توَلا	n masc
+توَس	n masc
+تَویل	adj
+تووٷ	vt
+تَوُو	vt
+تَخ	n masc
+تخَرگئی	n masc
+تخے	interj
+تأ	pro
+تیأدی	n fem
+تألأشی	n fem
+طألِب	n masc
+تأڜ	n fem
+تأت	n fem
+تأٷجن	adj
+تے	pro
+تے	pp
+تیا	adj
+طبیأت	n fem
+تیغ	n masc
+تیجأنی	adj
+تیل	n fem
+تیل	n fem
+تیل	adv
+تَیل	n fem
+تیلا	n masc
+تیمُوم	n masc
+تَین	n fem
+تینِک	adj fem
+تیربأل	n fem
+تَیریل	n fem
+تیرویر	adj
+تَیس	pro
+تیسپے	n fem
+تیز	adj
+تیز	n fem
+تیزاب	n masc
+تھال	adj
+تھام	n masc
+تھامُو	adv
+تھامُوٹ	adv
+تھان	n masc
+تھاپ	n fem
+تَھدات	adv
+تَھدَڜ	n masc
+تھدڜ	n masc
+تھدَڜگن	adj
+تَھئ	aux
+تَھل	n masc
+تھلا	conj
+تھلأئیمُو	adv
+تھلُو	vi
+تھرَڑٷ	vt
+تھرڜُو	n masc
+تھرَڜُو	vt
+تَھروٹ	n masc
+تھڑی	n fem
+تھواڑ	n masc
+تَھوُو	vt
+تھأ	pro
+تھأ	pro
+تھأ	pro
+تھأئیمُو	adv
+تھے	pro
+تھیدیک	adv
+تھیۓ	pro
+تھیلبا	n masc
+تھیلے	n fem
+تھیت	pro
+تھیوین	n masc
+تھیود	adv
+تِھی	vi
+تھیدا	vi
+تِھل	adj fem
+تِھین	pro
+تھو	pro
+تھوئے	pro
+تھوئے	pro
+تھولو	n masc
+تھوپ	n masc
+تَھوٷ	vt
+تھووور	adj
+تَھوَرُو	vi
+تُھو	aux
+تُھوگُو	vt
+تُھک	n masc
+تھوکدان	n masc
+تُھل	adj masc
+تُھن	pro
+تُھن	n fem
+تُھون	n fem
+تی	pro
+تی	pro
+تِیا	adj
+تجارت	n fem
+تِک	adj
+تِکا	n masc
+تِل	n masc
+تلاوت	n fem
+تِلین	n fem
+تِلی	n fem
+تِلُو	vi
+تِیمو	n masc
+تِن	n fem
+تِن	adj
+تِنداک	n fem
+تِراؤ	n masc
+تِربِریخی	adv
+تِریگین	n fem
+تِریک	n fem
+تِریس	adj
+تِریسیمیأ	adj
+تِرِیش	n fem
+تِسی	pro
+تِڜ	n masc
+تِڜیل	adj
+تِش	n fem
+تیتر	n masc
+تِتری	n fem
+تو	n masc
+توآل	n masc
+توآلوش	adj
+توآن	n masc
+توبہ	n fem
+طوفان	n fem
+طوفانی	adj
+توفیق	n masc
+تحفہ	n masc
+تول	n masc
+تولہ	n masc
+تولا	n masc
+تولو	n masc
+توم	n masc
+توم	n masc
+تومَت	n masc
+تونول	n masc
+توپ	n masc
+توپ	n fem
+توپچی	n masc
+تور	n masc
+تورا	adj
+تورَران	adj
+توری	n fem
+تورسَرے	n fem
+توروال	n masc
+توروالی	n fem
+توڑئی	n masc
+طوطی	n masc
+توتو	n masc
+تووُئ	n fem
+توخا	n masc
+څادر	n fem
+څانگ	adj
+څارُو	vt
+څاروَئی	n masc
+څاخ	n masc
+څلا	n masc
+څَلئ	n masc
+څلَختی	n fem
+څمڅاک	n fem
+څَپر	n masc
+څرخ	n masc
+څرخبچہ	n masc
+څرمخی	n fem
+څرخا	n fem
+څڑک	n masc
+څڑَکئ	n masc
+څڑی	n fem
+څڅوب	n fem
+څخسور	n masc
+څختہ	n masc
+څزَلگئی	adj
+څیرہ	n masc
+څِرِیگوُ	vi
+څِرِک	n fem
+څیز	n masc
+څِزرگَن	adj
+څوگی	n fem
+څوگیدار	n masc
+څوک	n fem
+څولئ	n masc
+څونگ	n masc
+څُگئ	n masc
+څُنڈئی	n masc
+څُپُوئ	adj
+تُو	pro
+تُل	n masc
+تُول	n fem
+تُول	n fem
+تُلأٹ	n fem
+تُولی	n fem
+تُن	adj
+تُونُو	pro
+تُونُو	n masc
+تُور	n fem
+تُورجن	adj
+تُرکُل	n masc
+تُرکُولَئ	n masc
+تُروڑ	n masc
+تُروڑی	n fem
+تُڜ	n masc
+تُڜُوم	n masc
+تُش	adj
+تُوووُک	n masc
+تُخ	n masc
+تُخم	n masc
+ٹاک	n fem
+ٹال	n masc
+ٹالا	adj masc
+ٹانچی	n fem
+ٹانگ	n masc
+ٹانگ	n masc
+ٹانگ	n masc
+ٹانگ	adj
+ٹانگا	n masc
+ٹانکا	n masc
+ٹانگو	n masc
+ٹاپ	adj
+ٹاپ	n masc
+ٹاپا	n masc
+ٹارُو	vt
+ٹاٹ	n masc
+ٹاٹی	n fem
+ٹاٹکئ	n masc
+ٹَگُو	vt
+ٹگُو	vi
+ٹَگُو	vt
+ٹگُون	n masc
+ٹغر	n masc
+ٹک	n fem
+ٹکا	n masc
+ٹکامأری	n fem
+ٹکر	n masc
+ٹکری	adj
+ٹکور	n masc
+ٹل	n masc
+ٹل	n masc
+ٹل	n masc
+ٹَلگَرے	n masc
+ٹماٹر	n masc
+ٹَمو	vt
+ٹپہ	n masc
+ٹپال	n masc
+ٹپوس	n masc
+ٹقا	n fem
+ٹقالے	n fem
+ٹَقوٷ	vt
+ٹقألی	n masc
+ٹقُول	adj
+ٹرک	n fem
+ٹرأ	n fem
+ٹرُو	vi
+ٹشے	interj
+ٹٹی	n fem
+ٹوَر	n masc
+ٹوَرشیئی	n masc
+ٹیأم	n fem
+ٹأنگے	n fem
+ٹیأر	n fem
+ٹیباٹیپ	n masc
+ٹیگے	adj fem
+ٹیکا	n masc
+ٹیلا	n masc
+ٹیلین	n fem
+ٹیم	n masc
+ٹَین	pp
+ٹینڈے	n fem
+ٹینھے	n fem
+ٹیپ	n masc
+ٹیپ	n masc
+ٹیر	n masc
+ٹیڑے	n fem
+ٹیڑی	n fem
+ٹیس	n fem
+ٹیسَن	n masc
+ٹیوے	n fem
+ٹیویل	n fem
+ٹھان	n fem
+ٹھار	adj
+ٹھاٹ	n masc
+ٹھاٹ	n masc
+ٹھک	adj
+ٹھمیل	adj
+ٹھمُو	vi
+ٹھندوبن	n masc
+ٹھنڈَر	n masc
+ٹھأم	n fem
+ٹھأمنأ	n fem
+ٹھے	n fem
+ٹھیل	n fem
+ٹھیلُو	vt
+ٹھینڈیل	n fem
+ٹھینے	n fem
+ٹھینگ	adj
+ٹھینگاچا	n masc
+ٹھیڑ	n fem
+ٹِھنژُو	vi
+ٹِھیں	n fem
+ٹھوگُو	vt
+ٹھوک	n masc
+ٹھونگ	n masc
+ٹھورین	n fem
+ٹھورشأ	n fem
+ٹھوس	n masc
+ٹھوزو	n masc
+ٹُھنگأر	n fem
+ٹُھنگأردأن	n fem
+ٹِیبیٹ	n fem
+ٹیگیل	n fem
+ٹِیگین	n fem
+ٹیگیرأٹ	n fem
+ٹِیگِن	n fem
+ٹیگون	n masc
+ٹِگُو	vi
+ٹِک	adj
+ٹِک	n masc
+ٹِک	n masc
+ٹِکا	n masc
+ٹیکارے	n fem
+ٹِکاٷ	adj
+ٹیکیّ	adj
+ٹِکَس	n masc
+ٹیکی	n fem
+ٹِکِنی	n fem
+ٹِکِیش	n fem
+ٹیکون	n masc
+ٹِکسو	n masc
+ٹِلی	n fem
+ٹِم	n masc
+ٹِمَئ	adj
+ٹِن	n fem
+ٹِنگ	adj
+ٹینگوٷ	vt
+ٹِنگُو	vi
+ٹِیٹ	adj
+ٹِیٹ	n masc
+ٹِٹھا	n masc
+ٹِیویٹ	n fem
+ٹوگو	adj
+ٹوگُو	vt
+ٹوگُو	vt
+ٹوکا	n masc
+ٹوکان	n masc
+ٹول	adj
+ٹولگِئ	n fem
+ٹولی	n fem
+ٹولون	adj
+ٹون	n masc
+ٹونکاش	n masc
+ٹونکأشی	n fem
+ٹونو	n masc
+ٹونُو	vt
+ٹونگ	adj
+ٹوپ	n fem
+ٹوپ	n masc
+ٹوپ	n masc
+ٹوقے	n masc
+ٹوقی	n masc
+ٹوڑو	adj
+ٹوس	n masc
+ٹوسئ	n masc
+ٹوسی	n fem
+ٹوٹا	n masc
+ٹوٹگی	n fem
+ٹوٹکا	n masc
+ٹوَگئ	n masc
+ٹووو	n masc
+ٹووول	n masc
+ٹراؤٹ	n masc
+ٹُو	adj
+ٹُک	n masc
+ٹُکئ	n masc
+ٹُکری	n fem
+ٹُکروٹ	n masc
+ٹُموسئی	n masc
+ٹُن	n masc
+ٹُونُو	vt
+ٹونگورُوٹ	adj
+ٹُرنُوکُو	n masc
+ٹوڑاک	adj
+ٹوڑوگون	n masc
+ٹُوٹی	n fem
+اُو	n masc
+اُوآنھِگلُو	vt
+اُونِھگال	n masc
+اُوتروٷ	vi
+اُوتَھل	adj
+اُبڑی	n fem
+اُچات	adj
+اُودی	adj
+اُوگوٷ	vt
+اُگھالُو	vt
+اُوگھات	vi
+اُگھلَوؤ	vt
+اُگھلُو	vt
+اُگرَئ	n fem
+اُگُو	adj masc
+اُگوئ	n fem
+اُگوڜُو	vt
+اُژَل	adj masc
+اُژَل	adj
+اُژَلا	n masc
+اُژَلاچا	n masc
+اُژیل	adj fem
+ووُک	suffix
+اُلوٷ	vt
+اُلوجُو	vi
+اُلُوڑُو	vi
+اُلوٹُو	vi
+اُمت	n fem
+اُمتی	adj
+اُمید	n masc
+اُمیدوار	adj
+اُمُو	n fem
+اُوپیر	n masc
+اُپھاٹ	n masc
+اُپھڈاچا	n masc
+اُپُھٹ	adj
+اُرانئ	n fem
+اُری	n fem
+اُرڜأئ	n fem
+اُروبُرو	adv
+اُروگُو	vt
+اُڑ	adj
+اُڑوماڜ	n masc
+اُڑپھوزو	idiom
+اُس	n masc
+اُسکے	n fem
+اُسوڑو	vi
+اُڜُو	vt
+اُڜو	n masc
+اُشُو	vi
+اُشودبھیٹ	n masc
+عُشر	n masc
+اُتھل	adj masc
+اُتھلاچا	n masc
+اُتھیلیئ	n fem
+اُتھیلیئی	n fem
+اُتروڑ	n masc
+اُٹل	n masc
+اُوٹَین	adj
+اُوٹِب	n masc
+اُووٷ	vt
+اُخ	n masc
+اُخو	vi
+اُوڙُو	vi
+وا	adj
+وا	pp
+وابُھون	n masc
+وعدہ	n fem
+وایۓ	adv
+واگ	n masc
+واگے	n fem
+وَہم	n masc
+وال	suffix
+والا	suffix
+والی	n masc
+والُو	vt
+واندِیر	adj
+واپن	n masc
+واپنأ	adj
+واپنیئ	n fem
+واپسی	n fem
+واقعی	adv
+واقِعہ	n fem
+واقِف	adj
+واقِفیّت	n fem
+وار	n fem
+وار	n fem
+وارا	n fem
+وارخطا	adj
+وارخطیئ	n fem
+واسکٹ	n masc
+واش	n fem
+وات	vi
+واوئلا	n masc
+وَعظ	n masc
+وَبا	n fem
+وَچوبہ	n fem
+ودان	adj
+وفادار	adj
+وفاداری	n fem
+وفات	n masc
+وَگَم	n masc
+وھَلے	adj
+وَیّ	interj
+وجہ	n fem
+وجاڑ	adj
+وَجُود	n masc
+وَجُود	n masc
+وکیل	n masc
+وَل	n masc
+وَلوؤ	vt
+وَلی	n masc
+ولیعہد	n masc
+وقَف	adj
+وَقئی	n fem
+وَرا	interj
+ورَخ	n masc
+وَربوز	n masc
+وردَش	n fem
+ورسرہ	adv
+وَرشو	n masc
+وَڑ	n masc
+وَڑُو	vt
+وَس	n fem
+وطن	n masc
+وطنی	adj
+وَتر	n masc
+وَٹا	n masc
+وَخ	n masc
+وَختی	adv
+وزن	n masc
+وزیر	n masc
+وزیری	n fem
+وزنی	adj
+وأڑ	n fem
+ویلی	suffix
+ویش	n masc
+ویشَلے	n fem
+ویخ	adj
+ویخ	n masc
+ووُو	vi
+خا	interj
+خالی	adj
+خالق	n masc
+خامار	n fem
+خامخا	adv
+خآن	n masc
+خان	n masc
+خاندان	n masc
+خاندانی	adj
+خانَکئی	n masc
+خانو	interj
+خانخیل	n masc
+خاپری	n fem
+خار	n masc
+خارخ	n fem
+خاریئ	adj
+خارو	n fem
+خاص	adj
+خاصے	n fem
+خاتما	n fem
+خاطر	n masc
+خبر	n fem
+خبیس	adj
+خبیثی	n fem
+خلَک	n masc
+خلیگا	n masc
+خپا	adj
+خپگان	n masc
+خراپ	adj
+خَراش	n masc
+خرَٹا	n fem
+خربوزا	n masc
+خرچ	n masc
+خرچہ	n masc
+خَردَجال	n masc
+خرے	interj
+خرگاڑے	n fem
+خڑ	adj
+خڑاوا	n fem
+خڑَٷ	vt
+خَڑے	adj
+خڑییئ	n fem
+خڑیس	n masc
+خڑپِینو	n masc
+خڑتَم	n masc
+خڑوالے	n masc
+خَس	n fem
+خسارہ	n fem
+خاشخاش	n masc
+خط	n masc
+خطر	n fem
+خطری	adj
+خَطیئ	n fem
+خطرہ	n fem
+خٹا	n masc
+خٹکئ	n masc
+خَخ	adj
+خختا	n masc
+خَزا	adj masc
+خزَلا	n fem
+خوزوجھون	n fem
+خأدی	n fem
+خیال	n masc
+خیگڑا	n masc
+خیل	n masc
+خیلاف	adj
+خینزیر	n masc
+خیر	n masc
+خیر	n masc
+خیراتو	n masc
+خیرأتی	n masc
+خیرأزی	n fem
+خیستارے	adv
+خیوا	n masc
+خیخ	n masc
+خیخا	n masc
+خیخے	n fem
+خیضاب	n masc
+خصمان	n masc
+خِت	n fem
+خِزمان	n masc
+خِزمت	n fem
+خو	conj
+خوا	adj
+خوا	pp
+خوا	n fem
+خوا	pp
+خواٷشا	adv
+خون	n masc
+خَونا	n masc
+خور	adj
+خورکوٷ	vt
+خوراک	n masc
+خورَئ	n masc
+خوری	n fem
+خوری	n fem
+خورجیئ	n fem
+خوڑا	n masc
+خوش	n fem
+خوشال	adj
+خوشَوٷ	vt
+خوشألی	n fem
+خوشیل	adj
+خوشی	n fem
+خوٹے	n masc
+خوبانے	n fem
+خُود	n masc
+خُدا	n masc
+خُدیئ	adj
+خُدیئی	n fem
+خُوئ	n fem
+خُم	n masc
+خون	n masc
+خُندی	adj
+خونی	adj
+خُوپتن	n fem
+خُرما	n masc
+خُڑکُنی	n fem
+خُوڑوگوٷ	vt
+خُوڑُوگُو	vi
+خڑُوک	n fem
+خشکہ	n masc
+خشکا	adj
+خشکہ	n masc
+خُشکونوٷ	vt
+خُشکُونُو	vi
+خطبہ	n masc
+خُوزیئ	n fem
+یا	conj
+یاب	n fem
+یابنے	adv
+یاد	n masc
+یاغی	adj
+یاغستان	n masc
+یام	adj
+یام	n masc
+یار	n masc
+یارباش	adj
+یایو	interj
+یَبیل	n fem
+یَنی	adv
+یرَگ	n masc
+یأ	conj
+یأر	n fem
+یأری	n fem
+یے	pp
+ییدَوٷ	vt
+ییئ	n fem
+ییل	n fem
+یقین	n masc
+ییرأ	conj
+ییرأ	interj
+یس	adj
+ییت	adv
+ییوٷ	vi
+یییو	interj
+یِی	pro
+یو	n masc
+یوآر	n masc
+یوآڑ	n fem
+یوبندے	n masc
+یونگ	adj
+یونگوٷ	vi
+یُن	n fem
+یونأنی	adj
+یُووٷ	vt
+یوں	n fem
+زاب	n fem
+زافُوران	n masc
+ظاہر	adj
+ظاہری	adv
+زامبیل	n fem
+زانگ	n masc
+زانگُو	n masc
+زار	n masc
+زارَت	n fem
+زاربُوٹی	n fem
+زاڑے	adj
+ذات	n fem
+ذبح	n fem
+ذبح	n fem
+زبردَس	adj
+زبردستی	adv
+زگ	n fem
+زیئبدی	adj
+ضعیف	adj
+زکات	n masc
+زلَل	n fem
+زلَلی	adj
+زمَرود	n masc
+زنکدَن	n fem
+زنزیر	n masc
+زنگل	n masc
+زَنگَن	adj
+زنگوَٷ	vt
+زنگی	adj
+زنگلی	adj
+زَر	num
+زَر	n masc
+زردہ	n masc
+زردالُو	n masc
+زرگر	n masc
+زرغون	adj
+ضرور	adv
+ضرورت	n fem
+ضروری	adj
+زَڑئ	n masc
+زخم	n masc
+زَخی	adj
+زخمی	adj
+ظألِم	adj
+زأمیتو	n masc
+زأنی	adj
+زأری	n fem
+زأرین	n fem
+زأرینال	n masc
+زیاد	adj
+زیان	n masc
+زیارتَئ	n masc
+ذہن	n masc
+ذہنی	adj
+زَیم	n fem
+زیپی	n fem
+زیر	n fem
+زیردَل	n masc
+زیرے	n fem
+زیڑئی	n masc
+زیت	pp
+زیور	n masc
+ضِد	n fem
+ذِکر	n masc
+ذِلت	n fem
+زِیمیدار	adj
+زِیمِیدارا	n fem
+زِیمیدأری	n fem
+زِینا	n masc
+زیناکار	n masc
+زینار	n masc
+زیناور	n masc
+زیناز	n masc
+زیندیق	adj
+زِینی	adj
+زیراک	adj masc
+زِیری	n fem
+زوآل	n masc
+زوآن	adj
+زوأنی	n fem
+زوگ	n fem
+زَول	n masc
+زور	n masc
+زور	n masc
+زورا	adv
+زورَنا	n fem
+زوروڑ	adj
+زورطَلَبا	adv
+زورذیاتیئ	n masc
+زوڑچیل	n masc
+زوڑکلے	n masc
+زوتوٷ	vt
+زوُل	adj
+ظلم	n masc
+زُمان	n masc
+زُونڈی	n fem
+زُنڈَئی	n masc
+زُوقُم	n masc
+ذُواب	n masc
+ڙادا	adv
+ڙادُوک	adj
+ڙال	n masc
+ڙال	n masc
+ڙامُونگ	n masc
+ڙان	n fem
+ڙان	n masc
+ڙانگ	n masc
+ڙانگیل	adj
+ڙات	n fem
+ڙات	n masc
+ڙات	n masc
+ڙانئی	n fem
+ڙگ	n fem
+ڙَموس	n masc
+ڙنیأل	n masc
+ڙنیر	n fem
+ڙنی	n fem
+ڙنجَوٷ	vt
+ڙنجُو	vi
+ڙَنکُل	n masc
+ڙپارَن	n fem
+ڙس	n masc
+ڙَسیل	adj
+ڙڜان	n masc
+ڙڜاندر	n masc
+ڙَڜُو	vt
+ڙَوے	n masc
+ڙأم	n fem
+ڙأڜ	n fem
+ڙیئی	n fem
+ڙیمیٹ	n fem
+ڙین	n fem
+ڙیت	adv
+ڙیتکُولأل	adv
+ڙِین	n fem
+ڙینگ	n fem
+ڙینگُو	vi
+ڙِت	n masc
+ڙو	n masc
+ڙوگ	n fem
+ڙون	n masc
+ڙوٷ	vt
+ڙویل	adj
+ڙوز	n masc
+ڙوزدا	adj
+ڙوزگا	n masc
+ڙوزما	n masc
+ڙوزپھیرأ	n fem
+ڙُنُوگو	vi
+ڙُوڑ	n masc
+ڙُوشُو	vi
+ڙُوںئ	n fem
