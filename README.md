@@ -20,11 +20,11 @@ The analyser works well for verbs which is the largest category in Torwali when 
 - Python 3.0
 - No external libraries required (only standard Python re module).
 - Foma
-- Script to invoke Foma: 
-   _Open foma and use the following commands to analyze all the words in the input lexc file_
-Foma[0]:source D:/naeem-trw.trw.foma
-Foma[1]:source D:/naeem-trw.trw.lexc
-Foma[2]:read lexc D:/naeem-trw.trw.lexc
+- Script to invoke Foma:<br> 
+   _Open foma and use the following commands to analyze all the words in the input lexc file_<br>
+Foma[0]:source D:/naeem-trw.trw.foma<br>
+Foma[1]:source D:/naeem-trw.trw.lexc<br>
+Foma[2]:read lexc D:/naeem-trw.trw.lexc<br>
 Foma[3]:print lower-words>D:/naeem.text
 
 ### Files and data
