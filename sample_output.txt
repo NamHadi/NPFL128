@@ -1,0 +1,45 @@
+-------------Sample Output---------------
+
+Tokenizer: 
+
+>  مُڜ کے کا غم چھی ڙن می ڙات چھی
+مُڜ	n masc
+کے	pp
+کا	pro
+غم	n masc
+چھی	pro
+ڙن	UNK
+می	pp
+ڙات	n masc
+چھی	pro
+
+
+>  مے کمرا سی ڃِگاچا کم تُھو
+مے	pro
+کمرا	UNK
+سی	n fem
+ڃِگاچا	n masc
+کم	adj
+تُھو	aux
+
+
+
+Morphological Analyzer: 
+
+ڙنوگ [V(ʒunug ڙنوگ )].[ʒunug].[Cry]
+ڙنوگ>و [V-INF(ڙنوگ)].[ʒunug>u].[crying]  
+ڙنوگ>جی [N-F(ڙنوگ) + Sg + pres].[ʒunug>ədʒi].[crying]
+ڙنوگ>دو [N-M(ڙنوگ) + Sg + pres].[ʒunug>ədu].[].[crying]
+
+کھا [V(کھا)].[kh^a].[eat]
+کھا>و [V-INF(کھا) + Sg + pres].[kʰə>w].[eating]
+کھا>دو [V-M(کھا) + Sg + pres].[kʰa>du].[eats]
+کھا>جی [V-F(کھا) + Sg + pres].[kʰa>dʒi].[eats]
+کھا>ودُود [V(کھا) + Past + past].[kʰəw>dud].[ate]
+کھا>نین [V(کھا) + Futr].[kʰa>nin].[eat]
+
+د>ان [N-M(دان) + Sg].[dan].[tooth]
+د>ن [N-F(دان) + Pl].[dən].[teeth]
+
+ڙ>أت [N-F(ڙات) + Pl].[ʒæt].[Nights]
+ڙ>ات [N-F(ڙات) + Pl].[ʒat].[Night] 

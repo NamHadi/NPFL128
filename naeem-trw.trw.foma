@@ -1,0 +1,18 @@
+# Torwali twol
+
+# Alphabet = آ أ ا ب پ ت ٹ ث ج ݲ چ ڇ څ ح خ د ڈ ذ ر ڑ ز ژڙ س ش ݜ ص ض ط ظ ع غ ف ق ک گ ل م ن و ہ ھ ئ ے
+
+# Vowels
+define V [ ا | آ | أ | اِ | اَ | اُ | و | ی | ئ | ے ];
+
+# Consonants = ب پ ت ٹ ث ج ݲ چ ڇ څ ح خ د ڈ ذ ر ڑ ز ژڙ س ش ݜ ص ض ط ظ ع غ ف ق ک گ ل م ن ہ ھ
+
+read lexc D:/naeem-trw.trw.lexc
+define Lexicon;
+
+# ا/A Deletion; to mark plurality of masculine singular nouns ending with ن/N (دان/dan/ , دن /dən/ ) 
+define ا Deletion  ا  ->  0 || _ "^" [ن]
+
+# ا/A Replacement; ا is replaced with أ to mark plurality of nouns ending with ت/T (ڙات /ẓat/ , ڙأت /zæt/ )
+define أ Replacement  ا  ->  أ || _ "^" [ت]
+
